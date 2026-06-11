@@ -1,6 +1,6 @@
 ---
 year: 2012
-question_id: "2012-CO-17"
+$12012-CO-17
 subject: 计算机组成原理
 chapter: 存储系统
 knowledge_point: Cache替换策略

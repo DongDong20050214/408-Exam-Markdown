@@ -1,6 +1,6 @@
 ---
 year: 2016
-question_id: "2016-OS-31"
+$12016-OS-31
 subject: 操作系统
 chapter: IO管理
 knowledge_point: SPOOLing

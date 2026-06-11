@@ -1,6 +1,6 @@
 ---
 year: 2016
-question_id: "2016-CO-13"
+$12016-CO-13
 subject: 计算机组成原理
 chapter: 数据表示
 knowledge_point: 类型转换

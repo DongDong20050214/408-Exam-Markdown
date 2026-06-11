@@ -1,6 +1,6 @@
 ---
 year: 2010
-question_id: "2010-OS-27"
+$12010-OS-27
 subject: 操作系统
 chapter: 进程管理
 knowledge_point: 互斥算法

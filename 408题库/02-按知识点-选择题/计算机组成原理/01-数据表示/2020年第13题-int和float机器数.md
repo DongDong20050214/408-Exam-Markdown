@@ -1,6 +1,6 @@
 ---
 year: 2020
-question_id: "2020-CO-13"
+$12020-CO-13
 subject: 计算机组成原理
 chapter: 数据表示
 knowledge_point: 数据表示

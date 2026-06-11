@@ -1,6 +1,6 @@
 ---
 year: 2009
-question_id: "2009-CO-12"
+$12009-CO-12
 subject: 计算机组成原理
 chapter: 数据表示
 knowledge_point: 类型转换

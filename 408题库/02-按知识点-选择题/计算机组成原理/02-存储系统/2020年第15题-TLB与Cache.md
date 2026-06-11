@@ -1,6 +1,6 @@
 ---
 year: 2020
-question_id: "2020-CO-15"
+$12020-CO-15
 subject: 计算机组成原理
 chapter: 存储系统
 knowledge_point: TLB与Cache

@@ -1,6 +1,6 @@
 ---
 year: 2010
-question_id: "2010-CO-17"
+$12010-CO-17
 subject: 计算机组成原理
 chapter: 存储系统
 knowledge_point: TLB和Cache
