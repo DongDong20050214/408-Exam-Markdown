@@ -1,0 +1,4694 @@
+[
+  {
+    "newPath": "操作系统\\00-概述\\2013年第29题-操作系统加载位置.md",
+    "action": "rename",
+    "newName": "2013年第29题-操作系统加载位置.md",
+    "oldPath": "操作系统\\00-概述\\操作系统加载位置.md",
+    "oldName": "操作系统加载位置.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2010年第23题-操作系统应用程序接口.md",
+    "action": "rename",
+    "newName": "2010年第23题-操作系统应用程序接口.md",
+    "oldPath": "操作系统\\00-概述\\操作系统应用程序接口.md",
+    "oldName": "操作系统应用程序接口.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2009年第23题-单处理机系统可并行.md",
+    "action": "rename",
+    "newName": "2009年第23题-单处理机系统可并行.md",
+    "oldPath": "操作系统\\00-概述\\单处理机系统可并行.md",
+    "oldName": "单处理机系统可并行.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2017年第28题-多道程序系统优点.md",
+    "action": "rename",
+    "newName": "2017年第28题-多道程序系统优点.md",
+    "oldPath": "操作系统\\00-概述\\多道程序系统优点.md",
+    "oldName": "多道程序系统优点.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2018年第23题-多任务操作系统.md",
+    "action": "rename",
+    "newName": "2018年第23题-多任务操作系统.md",
+    "oldPath": "操作系统\\00-概述\\多任务操作系统.md",
+    "oldName": "多任务操作系统.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2014年第25题-关中断指令.md",
+    "action": "rename",
+    "newName": "2014年第25题-关中断指令.md",
+    "oldPath": "操作系统\\00-概述\\关中断指令.md",
+    "oldName": "关中断指令.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2016年第23题-批处理系统.md",
+    "action": "rename",
+    "newName": "2016年第23题-批处理系统.md",
+    "oldPath": "操作系统\\00-概述\\批处理系统.md",
+    "oldName": "批处理系统.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2015年第24题-态转换指令.md",
+    "action": "rename",
+    "newName": "2015年第24题-态转换指令.md",
+    "oldPath": "操作系统\\00-概述\\态转换指令.md",
+    "oldName": "态转换指令.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2019年第25题-系统调用.md",
+    "action": "rename",
+    "newName": "2019年第25题-系统调用.md",
+    "oldPath": "操作系统\\00-概述\\系统调用.md",
+    "oldName": "系统调用.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2017年第24题-系统调用执行顺序.md",
+    "action": "rename",
+    "newName": "2017年第24题-系统调用执行顺序.md",
+    "oldPath": "操作系统\\00-概述\\系统调用执行顺序.md",
+    "oldName": "系统调用执行顺序.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2014年第25题-用户态不能执行指令.md",
+    "action": "rename",
+    "newName": "2014年第25题-用户态不能执行指令.md",
+    "oldPath": "操作系统\\00-概述\\用户态不能执行指令.md",
+    "oldName": "用户态不能执行指令.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2013年第28题-用户态到内核态切换.md",
+    "action": "rename",
+    "newName": "2013年第28题-用户态到内核态切换.md",
+    "oldPath": "操作系统\\00-概述\\用户态到内核态切换.md",
+    "oldName": "用户态到内核态切换.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2012年第23题-用户态事件.md",
+    "action": "rename",
+    "newName": "2012年第23题-用户态事件.md",
+    "oldPath": "操作系统\\00-概述\\用户态事件.md",
+    "oldName": "用户态事件.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2011年第24题-用户态执行程序.md",
+    "action": "rename",
+    "newName": "2011年第24题-用户态执行程序.md",
+    "oldPath": "操作系统\\00-概述\\用户态执行程序.md",
+    "oldName": "用户态执行程序.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2015年第23题-中断保存内容.md",
+    "action": "rename",
+    "newName": "2015年第23题-中断保存内容.md",
+    "oldPath": "操作系统\\00-概述\\中断保存内容.md",
+    "oldName": "中断保存内容.md"
+  },
+  {
+    "newPath": "操作系统\\00-概述\\2012年第24题-中断子程序调用区别.md",
+    "action": "rename",
+    "newName": "2012年第24题-中断子程序调用区别.md",
+    "oldPath": "操作系统\\00-概述\\中断子程序调用区别.md",
+    "oldName": "中断子程序调用区别.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2022年第24题-操作系统初始化.md",
+    "action": "rename",
+    "newName": "2022年第24题-操作系统初始化.md",
+    "oldPath": "操作系统\\01-概述\\操作系统初始化.md",
+    "oldName": "操作系统初始化.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2022年第23题-多道程序.md",
+    "action": "rename",
+    "newName": "2022年第23题-多道程序.md",
+    "oldPath": "操作系统\\01-概述\\多道程序.md",
+    "oldName": "多道程序.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2022年第23题-多道程序系统.md",
+    "action": "rename",
+    "newName": "2022年第23题-多道程序系统.md",
+    "oldPath": "操作系统\\01-概述\\多道程序系统.md",
+    "oldName": "多道程序系统.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2018年第23题-多任务系统.md",
+    "action": "rename",
+    "newName": "2018年第23题-多任务系统.md",
+    "oldPath": "操作系统\\01-概述\\多任务系统.md",
+    "oldName": "多任务系统.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2023年第23题-内核结构.md",
+    "action": "rename",
+    "newName": "2023年第23题-内核结构.md",
+    "oldPath": "操作系统\\01-概述\\内核结构.md",
+    "oldName": "内核结构.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2018年第29题-时钟中断服务.md",
+    "action": "rename",
+    "newName": "2018年第29题-时钟中断服务.md",
+    "oldPath": "操作系统\\01-概述\\时钟中断服务.md",
+    "oldName": "时钟中断服务.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2021年第23题-特权指令.md",
+    "action": "rename",
+    "newName": "2021年第23题-特权指令.md",
+    "oldPath": "操作系统\\01-概述\\特权指令.md",
+    "oldName": "特权指令.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2022年第24题-系统初始化创建.md",
+    "action": "rename",
+    "newName": "2022年第24题-系统初始化创建.md",
+    "oldPath": "操作系统\\01-概述\\系统初始化创建.md",
+    "oldName": "系统初始化创建.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2022年第31题-系统调用.md",
+    "action": "rename",
+    "newName": "2022年第31题-系统调用.md",
+    "oldPath": "操作系统\\01-概述\\系统调用.md",
+    "oldName": "系统调用.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2021年第32题-系统调用操作.md",
+    "action": "rename",
+    "newName": "2021年第32题-系统调用操作.md",
+    "oldPath": "操作系统\\01-概述\\系统调用操作.md",
+    "oldName": "系统调用操作.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2019年第25题-系统调用接口.md",
+    "action": "rename",
+    "newName": "2019年第25题-系统调用接口.md",
+    "oldPath": "操作系统\\01-概述\\系统调用接口.md",
+    "oldName": "系统调用接口.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2019年第25题-系统调用特点.md",
+    "action": "rename",
+    "newName": "2019年第25题-系统调用特点.md",
+    "oldPath": "操作系统\\01-概述\\系统调用特点.md",
+    "oldName": "系统调用特点.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2020年第25题-中断处理操作.md",
+    "action": "rename",
+    "newName": "2020年第25题-中断处理操作.md",
+    "oldPath": "操作系统\\01-概述\\中断处理操作.md",
+    "oldName": "中断处理操作.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2023年第24题-中断向量表.md",
+    "action": "rename",
+    "newName": "2023年第24题-中断向量表.md",
+    "oldPath": "操作系统\\01-概述\\中断向量表.md",
+    "oldName": "中断向量表.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2024年第23题-中断异常系统调用.md",
+    "action": "rename",
+    "newName": "2024年第23题-中断异常系统调用.md",
+    "oldPath": "操作系统\\01-概述\\中断异常系统调用.md",
+    "oldName": "中断异常系统调用.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2022年第27题-CPU模式.md",
+    "action": "rename",
+    "newName": "2022年第27题-CPU模式.md",
+    "oldPath": "操作系统\\01-概述\\CPU模式.md",
+    "oldName": "CPU模式.md"
+  },
+  {
+    "newPath": "操作系统\\01-概述\\2022年第27题-CPU模式特权指令.md",
+    "action": "rename",
+    "newName": "2022年第27题-CPU模式特权指令.md",
+    "oldPath": "操作系统\\01-概述\\CPU模式特权指令.md",
+    "oldName": "CPU模式特权指令.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2022年第26题-安全序列个数.md",
+    "action": "rename",
+    "newName": "2022年第26题-安全序列个数.md",
+    "oldPath": "操作系统\\01-进程管理\\安全序列个数.md",
+    "oldName": "安全序列个数.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2018年第26题-安全序列检测.md",
+    "action": "rename",
+    "newName": "2018年第26题-安全序列检测.md",
+    "oldPath": "操作系统\\01-进程管理\\安全序列检测.md",
+    "oldName": "安全序列检测.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2014年第24题-避免死锁设备数.md",
+    "action": "rename",
+    "newName": "2014年第24题-避免死锁设备数.md",
+    "oldPath": "操作系统\\01-进程管理\\避免死锁设备数.md",
+    "oldName": "避免死锁设备数.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2016年第24题-并发执行时间.md",
+    "action": "rename",
+    "newName": "2016年第24题-并发执行时间.md",
+    "oldPath": "操作系统\\01-进程管理\\并发执行时间.md",
+    "oldName": "并发执行时间.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2014年第23题-不导致饥饿的调度算法.md",
+    "action": "rename",
+    "newName": "2014年第23题-不导致饥饿的调度算法.md",
+    "oldPath": "操作系统\\01-进程管理\\不导致饥饿的调度算法.md",
+    "oldName": "不导致饥饿的调度算法.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2012年第30题-处理机调度时机.md",
+    "action": "rename",
+    "newName": "2012年第30题-处理机调度时机.md",
+    "oldPath": "操作系统\\01-进程管理\\处理机调度时机.md",
+    "oldName": "处理机调度时机.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2010年第24题-创建新进程的操作.md",
+    "action": "rename",
+    "newName": "2010年第24题-创建新进程的操作.md",
+    "oldPath": "操作系统\\01-进程管理\\创建新进程的操作.md",
+    "oldName": "创建新进程的操作.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2014年第26题-磁盘读操作完成后.md",
+    "action": "rename",
+    "newName": "2014年第26题-磁盘读操作完成后.md",
+    "oldPath": "操作系统\\01-进程管理\\磁盘读操作完成后.md",
+    "oldName": "磁盘读操作完成后.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2021年第27题-调度时机.md",
+    "action": "rename",
+    "newName": "2021年第27题-调度时机.md",
+    "oldPath": "操作系统\\01-进程管理\\调度时机.md",
+    "oldName": "调度时机.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2020年第26题-多级反馈队列.md",
+    "action": "rename",
+    "newName": "2020年第26题-多级反馈队列.md",
+    "oldPath": "操作系统\\01-进程管理\\多级反馈队列.md",
+    "oldName": "多级反馈队列.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2019年第27题-二级反馈队列.md",
+    "action": "rename",
+    "newName": "2019年第27题-二级反馈队列.md",
+    "oldPath": "操作系统\\01-进程管理\\二级反馈队列.md",
+    "oldName": "二级反馈队列.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2019年第27题-二级反馈队列调度.md",
+    "action": "rename",
+    "newName": "2019年第27题-二级反馈队列调度.md",
+    "oldPath": "操作系统\\01-进程管理\\二级反馈队列调度.md",
+    "oldName": "二级反馈队列调度.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2020年第29题-父子进程.md",
+    "action": "rename",
+    "newName": "2020年第29题-父子进程.md",
+    "oldPath": "操作系统\\01-进程管理\\父子进程.md",
+    "oldName": "父子进程.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2011年第23题-高响应比优先调度.md",
+    "action": "rename",
+    "newName": "2011年第23题-高响应比优先调度.md",
+    "oldPath": "操作系统\\01-进程管理\\高响应比优先调度.md",
+    "oldName": "高响应比优先调度.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2016年第32题-管程机制.md",
+    "action": "rename",
+    "newName": "2016年第32题-管程机制.md",
+    "oldPath": "操作系统\\01-进程管理\\管程机制.md",
+    "oldName": "管程机制.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2018年第28题-管程条件变量.md",
+    "action": "rename",
+    "newName": "2018年第28题-管程条件变量.md",
+    "oldPath": "操作系统\\01-进程管理\\管程条件变量.md",
+    "oldName": "管程条件变量.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2014年第31题-管道通信.md",
+    "action": "rename",
+    "newName": "2014年第31题-管道通信.md",
+    "oldPath": "操作系统\\01-进程管理\\管道通信.md",
+    "oldName": "管道通信.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2014年第23题-饥饿现象.md",
+    "action": "rename",
+    "newName": "2014年第23题-饥饿现象.md",
+    "oldPath": "操作系统\\01-进程管理\\饥饿现象.md",
+    "oldName": "饥饿现象.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2021年第24题-进程创建.md",
+    "action": "rename",
+    "newName": "2021年第24题-进程创建.md",
+    "oldPath": "操作系统\\01-进程管理\\进程创建.md",
+    "oldName": "进程创建.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2022年第25题-进程调度次数.md",
+    "action": "rename",
+    "newName": "2022年第25题-进程调度次数.md",
+    "oldPath": "操作系统\\01-进程管理\\进程调度次数.md",
+    "oldName": "进程调度次数.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2019年第24题-进程唤醒.md",
+    "action": "rename",
+    "newName": "2019年第24题-进程唤醒.md",
+    "oldPath": "操作系统\\01-进程管理\\进程唤醒.md",
+    "oldName": "进程唤醒.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2019年第24题-进程唤醒事件.md",
+    "action": "rename",
+    "newName": "2019年第24题-进程唤醒事件.md",
+    "oldPath": "操作系统\\01-进程管理\\进程唤醒事件.md",
+    "oldName": "进程唤醒事件.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2024年第25题-进程切换操作.md",
+    "action": "rename",
+    "newName": "2024年第25题-进程切换操作.md",
+    "oldPath": "操作系统\\01-进程管理\\进程切换操作.md",
+    "oldName": "进程切换操作.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2015年第29题-进程同步2015.md",
+    "action": "rename",
+    "newName": "2015年第29题-进程同步2015.md",
+    "oldPath": "操作系统\\01-进程管理\\进程同步2015.md",
+    "oldName": "进程同步2015.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2013年第31题-进程优先级设置.md",
+    "action": "rename",
+    "newName": "2013年第31题-进程优先级设置.md",
+    "oldPath": "操作系统\\01-进程管理\\进程优先级设置.md",
+    "oldName": "进程优先级设置.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2012年第31题-进程与线程关系.md",
+    "action": "rename",
+    "newName": "2012年第31题-进程与线程关系.md",
+    "oldPath": "操作系统\\01-进程管理\\进程与线程关系.md",
+    "oldName": "进程与线程关系.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2024年第24题-进程终止操作.md",
+    "action": "rename",
+    "newName": "2024年第24题-进程终止操作.md",
+    "oldPath": "操作系统\\01-进程管理\\进程终止操作.md",
+    "oldName": "进程终止操作.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2018年第27题-进程阻塞事件.md",
+    "action": "rename",
+    "newName": "2018年第27题-进程阻塞事件.md",
+    "oldPath": "操作系统\\01-进程管理\\进程阻塞事件.md",
+    "oldName": "进程阻塞事件.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2020年第32题-临界区互斥.md",
+    "action": "rename",
+    "newName": "2020年第32题-临界区互斥.md",
+    "oldPath": "操作系统\\01-进程管理\\临界区互斥.md",
+    "oldName": "临界区互斥.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2012年第29题-批处理作业时间.md",
+    "action": "rename",
+    "newName": "2012年第29题-批处理作业时间.md",
+    "oldPath": "操作系统\\01-进程管理\\批处理作业时间.md",
+    "oldName": "批处理作业时间.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2017年第27题-时间片调度.md",
+    "action": "rename",
+    "newName": "2017年第27题-时间片调度.md",
+    "oldPath": "操作系统\\01-进程管理\\时间片调度.md",
+    "oldName": "时间片调度.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2024年第30题-时间片轮转周转时间.md",
+    "action": "rename",
+    "newName": "2024年第30题-时间片轮转周转时间.md",
+    "oldPath": "操作系统\\01-进程管理\\时间片轮转周转时间.md",
+    "oldName": "时间片轮转周转时间.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2015年第26题-死锁避免和检测.md",
+    "action": "rename",
+    "newName": "2015年第26题-死锁避免和检测.md",
+    "oldPath": "操作系统\\01-进程管理\\死锁避免和检测.md",
+    "oldName": "死锁避免和检测.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2015年第26题-死锁避免和死锁检测.md",
+    "action": "rename",
+    "newName": "2015年第26题-死锁避免和死锁检测.md",
+    "oldPath": "操作系统\\01-进程管理\\死锁避免和死锁检测.md",
+    "oldName": "死锁避免和死锁检测.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2016年第25题-死锁进程数.md",
+    "action": "rename",
+    "newName": "2016年第25题-死锁进程数.md",
+    "oldPath": "操作系统\\01-进程管理\\死锁进程数.md",
+    "oldName": "死锁进程数.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2019年第30题-死锁判断.md",
+    "action": "rename",
+    "newName": "2019年第30题-死锁判断.md",
+    "oldPath": "操作系统\\01-进程管理\\死锁判断.md",
+    "oldName": "死锁判断.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2014年第24题-死锁设备数.md",
+    "action": "rename",
+    "newName": "2014年第24题-死锁设备数.md",
+    "oldPath": "操作系统\\01-进程管理\\死锁设备数.md",
+    "oldName": "死锁设备数.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2021年第31题-死锁预防.md",
+    "action": "rename",
+    "newName": "2021年第31题-死锁预防.md",
+    "oldPath": "操作系统\\01-进程管理\\死锁预防.md",
+    "oldName": "死锁预防.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2009年第25题-死锁K最小值.md",
+    "action": "rename",
+    "newName": "2009年第25题-死锁K最小值.md",
+    "oldPath": "操作系统\\01-进程管理\\死锁K最小值.md",
+    "oldName": "死锁K最小值.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2023年第26题-态转换.md",
+    "action": "rename",
+    "newName": "2023年第26题-态转换.md",
+    "oldPath": "操作系统\\01-进程管理\\态转换.md",
+    "oldName": "态转换.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2019年第23题-线程.md",
+    "action": "rename",
+    "newName": "2019年第23题-线程.md",
+    "oldPath": "操作系统\\01-进程管理\\线程.md",
+    "oldName": "线程.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2018年第25题-线程并发执行序列.md",
+    "action": "rename",
+    "newName": "2018年第25题-线程并发执行序列.md",
+    "oldPath": "操作系统\\01-进程管理\\线程并发执行序列.md",
+    "oldName": "线程并发执行序列.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2011年第25题-线程不能共享.md",
+    "action": "rename",
+    "newName": "2011年第25题-线程不能共享.md",
+    "oldPath": "操作系统\\01-进程管理\\线程不能共享.md",
+    "oldName": "线程不能共享.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2016年第30题-线程间互斥操作.md",
+    "action": "rename",
+    "newName": "2016年第30题-线程间互斥操作.md",
+    "oldPath": "操作系统\\01-进程管理\\线程间互斥操作.md",
+    "oldName": "线程间互斥操作.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2023年第27题-线程状态.md",
+    "action": "rename",
+    "newName": "2023年第27题-线程状态.md",
+    "oldPath": "操作系统\\01-进程管理\\线程状态.md",
+    "oldName": "线程状态.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2024年第28题-线程资源共享.md",
+    "action": "rename",
+    "newName": "2024年第28题-线程资源共享.md",
+    "oldPath": "操作系统\\01-进程管理\\线程资源共享.md",
+    "oldName": "线程资源共享.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2010年第25题-信号量资源计算.md",
+    "action": "rename",
+    "newName": "2010年第25题-信号量资源计算.md",
+    "oldPath": "操作系统\\01-进程管理\\信号量资源计算.md",
+    "oldName": "信号量资源计算.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2012年第27题-银行家算法2012.md",
+    "action": "rename",
+    "newName": "2012年第27题-银行家算法2012.md",
+    "oldPath": "操作系统\\01-进程管理\\银行家算法2012.md",
+    "oldName": "银行家算法2012.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2020年第27题-银行家算法安全序列.md",
+    "action": "rename",
+    "newName": "2020年第27题-银行家算法安全序列.md",
+    "oldPath": "操作系统\\01-进程管理\\银行家算法安全序列.md",
+    "oldName": "银行家算法安全序列.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2019年第23题-用户级线程.md",
+    "action": "rename",
+    "newName": "2019年第23题-用户级线程.md",
+    "oldPath": "操作系统\\01-进程管理\\用户级线程.md",
+    "oldName": "用户级线程.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2010年第26题-优先级调整时机.md",
+    "action": "rename",
+    "newName": "2010年第26题-优先级调整时机.md",
+    "oldPath": "操作系统\\01-进程管理\\优先级调整时机.md",
+    "oldName": "优先级调整时机.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2022年第25题-优先级抢占调度次数.md",
+    "action": "rename",
+    "newName": "2022年第25题-优先级抢占调度次数.md",
+    "oldPath": "操作系统\\01-进程管理\\优先级抢占调度次数.md",
+    "oldName": "优先级抢占调度次数.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2015年第25题-执行态变为就绪态事件.md",
+    "action": "rename",
+    "newName": "2015年第25题-执行态变为就绪态事件.md",
+    "oldPath": "操作系统\\01-进程管理\\执行态变为就绪态事件.md",
+    "oldName": "执行态变为就绪态事件.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2017年第23题-作业调度算法.md",
+    "action": "rename",
+    "newName": "2017年第23题-作业调度算法.md",
+    "oldPath": "操作系统\\01-进程管理\\作业调度算法.md",
+    "oldName": "作业调度算法.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2023年第29题-CPU调度.md",
+    "action": "rename",
+    "newName": "2023年第29题-CPU调度.md",
+    "oldPath": "操作系统\\01-进程管理\\CPU调度.md",
+    "oldName": "CPU调度.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2010年第27题-Peterson算法.md",
+    "action": "rename",
+    "newName": "2010年第27题-Peterson算法.md",
+    "oldPath": "操作系统\\01-进程管理\\Peterson算法.md",
+    "oldName": "Peterson算法.md"
+  },
+  {
+    "newPath": "操作系统\\01-进程管理\\2016年第27题-TSL指令实现互斥.md",
+    "action": "rename",
+    "newName": "2016年第27题-TSL指令实现互斥.md",
+    "oldPath": "操作系统\\01-进程管理\\TSL指令实现互斥.md",
+    "oldName": "TSL指令实现互斥.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2021年第28题-地址转换.md",
+    "action": "rename",
+    "newName": "2021年第28题-地址转换.md",
+    "oldPath": "操作系统\\02-内存管理\\地址转换.md",
+    "oldName": "地址转换.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2019年第32题-动态分区分配.md",
+    "action": "rename",
+    "newName": "2019年第32题-动态分区分配.md",
+    "oldPath": "操作系统\\02-内存管理\\动态分区分配.md",
+    "oldName": "动态分区分配.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2011年第29题-抖动处理措施.md",
+    "action": "rename",
+    "newName": "2011年第29题-抖动处理措施.md",
+    "oldPath": "操作系统\\02-内存管理\\抖动处理措施.md",
+    "oldName": "抖动处理措施.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2016年第28题-段式存储越界.md",
+    "action": "rename",
+    "newName": "2016年第28题-段式存储越界.md",
+    "oldPath": "操作系统\\02-内存管理\\段式存储越界.md",
+    "oldName": "段式存储越界.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2014年第32题-多级页表优点.md",
+    "action": "rename",
+    "newName": "2014年第32题-多级页表优点.md",
+    "oldPath": "操作系统\\02-内存管理\\多级页表优点.md",
+    "oldName": "多级页表优点.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2010年第29题-二级页表页目录项数.md",
+    "action": "rename",
+    "newName": "2010年第29题-二级页表页目录项数.md",
+    "oldPath": "操作系统\\02-内存管理\\二级页表页目录项数.md",
+    "oldName": "二级页表页目录项数.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2019年第28题-分段共享.md",
+    "action": "rename",
+    "newName": "2019年第28题-分段共享.md",
+    "oldPath": "操作系统\\02-内存管理\\分段共享.md",
+    "oldName": "分段共享.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2009年第27题-分段最大段长.md",
+    "action": "rename",
+    "newName": "2009年第27题-分段最大段长.md",
+    "oldPath": "操作系统\\02-内存管理\\分段最大段长.md",
+    "oldName": "分段最大段长.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2016年第26题-改进型CLOCK置换算法.md",
+    "action": "rename",
+    "newName": "2016年第26题-改进型CLOCK置换算法.md",
+    "oldPath": "操作系统\\02-内存管理\\改进型CLOCK置换算法.md",
+    "oldName": "改进型CLOCK置换算法.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2016年第29题-工作集窗口.md",
+    "action": "rename",
+    "newName": "2016年第29题-工作集窗口.md",
+    "oldPath": "操作系统\\02-内存管理\\工作集窗口.md",
+    "oldName": "工作集窗口.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2019年第28题-共享段.md",
+    "action": "rename",
+    "newName": "2019年第28题-共享段.md",
+    "oldPath": "操作系统\\02-内存管理\\共享段.md",
+    "oldName": "共享段.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2023年第30题-共享内存.md",
+    "action": "rename",
+    "newName": "2023年第30题-共享内存.md",
+    "oldPath": "操作系统\\02-内存管理\\共享内存.md",
+    "oldName": "共享内存.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2024年第27题-伙伴算法.md",
+    "action": "rename",
+    "newName": "2024年第27题-伙伴算法.md",
+    "oldPath": "操作系统\\02-内存管理\\伙伴算法.md",
+    "oldName": "伙伴算法.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2009年第26题-界地址保护.md",
+    "action": "rename",
+    "newName": "2009年第26题-界地址保护.md",
+    "oldPath": "操作系统\\02-内存管理\\界地址保护.md",
+    "oldName": "界地址保护.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2019年第14题-缺页处理.md",
+    "action": "rename",
+    "newName": "2019年第14题-缺页处理.md",
+    "oldPath": "操作系统\\02-内存管理\\缺页处理.md",
+    "oldName": "缺页处理.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2013年第30题-缺页处理操作.md",
+    "action": "rename",
+    "newName": "2013年第30题-缺页处理操作.md",
+    "oldPath": "操作系统\\02-内存管理\\缺页处理操作.md",
+    "oldName": "缺页处理操作.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2022年第30题-缺页率.md",
+    "action": "rename",
+    "newName": "2022年第30题-缺页率.md",
+    "oldPath": "操作系统\\02-内存管理\\缺页率.md",
+    "oldName": "缺页率.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2022年第29题-缺页异常.md",
+    "action": "rename",
+    "newName": "2022年第29题-缺页异常.md",
+    "oldPath": "操作系统\\02-内存管理\\缺页异常.md",
+    "oldName": "缺页异常.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2023年第25题-位图管理.md",
+    "action": "rename",
+    "newName": "2023年第25题-位图管理.md",
+    "oldPath": "操作系统\\02-内存管理\\位图管理.md",
+    "oldName": "位图管理.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2012年第25题-虚拟存储特性.md",
+    "action": "rename",
+    "newName": "2012年第25题-虚拟存储特性.md",
+    "oldPath": "操作系统\\02-内存管理\\虚拟存储特性.md",
+    "oldName": "虚拟存储特性.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2023年第28题-虚拟内存.md",
+    "action": "rename",
+    "newName": "2023年第28题-虚拟内存.md",
+    "oldPath": "操作系统\\02-内存管理\\虚拟内存.md",
+    "oldName": "虚拟内存.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2015年第30题-页面分配和置换策略.md",
+    "action": "rename",
+    "newName": "2015年第30题-页面分配和置换策略.md",
+    "oldPath": "操作系统\\02-内存管理\\页面分配和置换策略.md",
+    "oldName": "页面分配和置换策略.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2020年第28题-有效访存时间.md",
+    "action": "rename",
+    "newName": "2020年第28题-有效访存时间.md",
+    "oldPath": "操作系统\\02-内存管理\\有效访存时间.md",
+    "oldName": "有效访存时间.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2010年第28题-最佳适配算法.md",
+    "action": "rename",
+    "newName": "2010年第28题-最佳适配算法.md",
+    "oldPath": "操作系统\\02-内存管理\\最佳适配算法.md",
+    "oldName": "最佳适配算法.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2017年第25题-最佳适应算法.md",
+    "action": "rename",
+    "newName": "2017年第25题-最佳适应算法.md",
+    "oldPath": "操作系统\\02-内存管理\\最佳适应算法.md",
+    "oldName": "最佳适应算法.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2015年第27题-LRU淘汰页号.md",
+    "action": "rename",
+    "newName": "2015年第27题-LRU淘汰页号.md",
+    "oldPath": "操作系统\\02-内存管理\\LRU淘汰页号.md",
+    "oldName": "LRU淘汰页号.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2015年第27题-LRU页面置换.md",
+    "action": "rename",
+    "newName": "2015年第27题-LRU页面置换.md",
+    "oldPath": "操作系统\\02-内存管理\\LRU页面置换.md",
+    "oldName": "LRU页面置换.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2019年第29题-LRU页置换.md",
+    "action": "rename",
+    "newName": "2019年第29题-LRU页置换.md",
+    "oldPath": "操作系统\\02-内存管理\\LRU页置换.md",
+    "oldName": "LRU页置换.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2019年第29题-LRU页置换次数.md",
+    "action": "rename",
+    "newName": "2019年第29题-LRU页置换次数.md",
+    "oldPath": "操作系统\\02-内存管理\\LRU页置换次数.md",
+    "oldName": "LRU页置换次数.md"
+  },
+  {
+    "newPath": "操作系统\\02-内存管理\\2014年第28题-TLB加快地址转换.md",
+    "action": "rename",
+    "newName": "2014年第28题-TLB加快地址转换.md",
+    "oldPath": "操作系统\\02-内存管理\\TLB加快地址转换.md",
+    "oldName": "TLB加快地址转换.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2018年第30题-磁臂粘着.md",
+    "action": "rename",
+    "newName": "2018年第30题-磁臂粘着.md",
+    "oldPath": "操作系统\\03-文件管理\\磁臂粘着.md",
+    "oldName": "磁臂粘着.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2021年第26题-磁盘调度.md",
+    "action": "rename",
+    "newName": "2021年第26题-磁盘调度.md",
+    "oldPath": "操作系统\\03-文件管理\\磁盘调度.md",
+    "oldName": "磁盘调度.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2020年第24题-磁盘空间分配.md",
+    "action": "rename",
+    "newName": "2020年第24题-磁盘空间分配.md",
+    "oldPath": "操作系统\\03-文件管理\\磁盘空间分配.md",
+    "oldName": "磁盘空间分配.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2017年第29题-磁盘逻辑格式化.md",
+    "action": "rename",
+    "newName": "2017年第29题-磁盘逻辑格式化.md",
+    "oldPath": "操作系统\\03-文件管理\\磁盘逻辑格式化.md",
+    "oldName": "磁盘逻辑格式化.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2015年第20题-磁盘平均存取时间.md",
+    "action": "rename",
+    "newName": "2015年第20题-磁盘平均存取时间.md",
+    "oldPath": "操作系统\\03-文件管理\\磁盘平均存取时间.md",
+    "oldName": "磁盘平均存取时间.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2010年第31题-当前工作目录.md",
+    "action": "rename",
+    "newName": "2010年第31题-当前工作目录.md",
+    "oldPath": "操作系统\\03-文件管理\\当前工作目录.md",
+    "oldName": "当前工作目录.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2019年第26题-空闲磁盘块管理.md",
+    "action": "rename",
+    "newName": "2019年第26题-空闲磁盘块管理.md",
+    "oldPath": "操作系统\\03-文件管理\\空闲磁盘块管理.md",
+    "oldName": "空闲磁盘块管理.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2024年第26题-空闲块记录方法.md",
+    "action": "rename",
+    "newName": "2024年第26题-空闲块记录方法.md",
+    "oldPath": "操作系统\\03-文件管理\\空闲块记录方法.md",
+    "oldName": "空闲块记录方法.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2009年第31题-软链接和硬链接.md",
+    "action": "rename",
+    "newName": "2009年第31题-软链接和硬链接.md",
+    "oldPath": "操作系统\\03-文件管理\\软链接和硬链接.md",
+    "oldName": "软链接和硬链接.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2020年第31题-索引节点数量.md",
+    "action": "rename",
+    "newName": "2020年第31题-索引节点数量.md",
+    "oldPath": "操作系统\\03-文件管理\\索引节点数量.md",
+    "oldName": "索引节点数量.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2009年第28题-索引文件结构.md",
+    "action": "rename",
+    "newName": "2009年第28题-索引文件结构.md",
+    "oldPath": "操作系统\\03-文件管理\\索引文件结构.md",
+    "oldName": "索引文件结构.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2014年第27题-位图法管理空闲空间.md",
+    "action": "rename",
+    "newName": "2014年第27题-位图法管理空闲空间.md",
+    "oldPath": "操作系统\\03-文件管理\\位图法管理空闲空间.md",
+    "oldName": "位图法管理空闲空间.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2015年第31题-位图盘块释放.md",
+    "action": "rename",
+    "newName": "2015年第31题-位图盘块释放.md",
+    "oldPath": "操作系统\\03-文件管理\\位图盘块释放.md",
+    "oldName": "位图盘块释放.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2024年第29题-文件按名查找.md",
+    "action": "rename",
+    "newName": "2024年第29题-文件按名查找.md",
+    "oldPath": "操作系统\\03-文件管理\\文件按名查找.md",
+    "oldName": "文件按名查找.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2023年第31题-文件操作.md",
+    "action": "rename",
+    "newName": "2023年第31题-文件操作.md",
+    "oldPath": "操作系统\\03-文件管理\\文件操作.md",
+    "oldName": "文件操作.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2017年第26题-文件簇分配.md",
+    "action": "rename",
+    "newName": "2017年第26题-文件簇分配.md",
+    "oldPath": "操作系统\\03-文件管理\\文件簇分配.md",
+    "oldName": "文件簇分配.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2009年第30题-文件访问控制信息.md",
+    "action": "rename",
+    "newName": "2009年第30题-文件访问控制信息.md",
+    "oldPath": "操作系统\\03-文件管理\\文件访问控制信息.md",
+    "oldName": "文件访问控制信息.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2017年第30题-文件权限位数.md",
+    "action": "rename",
+    "newName": "2017年第30题-文件权限位数.md",
+    "oldPath": "操作系统\\03-文件管理\\文件权限位数.md",
+    "oldName": "文件权限位数.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2021年第30题-文件删除.md",
+    "action": "rename",
+    "newName": "2021年第30题-文件删除.md",
+    "oldPath": "操作系统\\03-文件管理\\文件删除.md",
+    "oldName": "文件删除.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2013年第23题-文件删除操作.md",
+    "action": "rename",
+    "newName": "2013年第23题-文件删除操作.md",
+    "oldPath": "操作系统\\03-文件管理\\文件删除操作.md",
+    "oldName": "文件删除操作.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2014年第29题-文件首次打开.md",
+    "action": "rename",
+    "newName": "2014年第29题-文件首次打开.md",
+    "oldPath": "操作系统\\03-文件管理\\文件首次打开.md",
+    "oldName": "文件首次打开.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2010年第30题-文件索引结构.md",
+    "action": "rename",
+    "newName": "2010年第30题-文件索引结构.md",
+    "oldPath": "操作系统\\03-文件管理\\文件索引结构.md",
+    "oldName": "文件索引结构.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2013年第26题-文件长度无关因素.md",
+    "action": "rename",
+    "newName": "2013年第26题-文件长度无关因素.md",
+    "oldPath": "操作系统\\03-文件管理\\文件长度无关因素.md",
+    "oldName": "文件长度无关因素.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2017年第31题-硬链接文件描述符.md",
+    "action": "rename",
+    "newName": "2017年第31题-硬链接文件描述符.md",
+    "oldPath": "操作系统\\03-文件管理\\硬链接文件描述符.md",
+    "oldName": "硬链接文件描述符.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2013年第24题-CD-ROM文件组织.md",
+    "action": "rename",
+    "newName": "2013年第24题-CD-ROM文件组织.md",
+    "oldPath": "操作系统\\03-文件管理\\CD-ROM文件组织.md",
+    "oldName": "CD-ROM文件组织.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2024年第32题-CSCAN磁盘调度.md",
+    "action": "rename",
+    "newName": "2024年第32题-CSCAN磁盘调度.md",
+    "oldPath": "操作系统\\03-文件管理\\CSCAN磁盘调度.md",
+    "oldName": "CSCAN磁盘调度.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2012年第28题-read系统调用.md",
+    "action": "rename",
+    "newName": "2012年第28题-read系统调用.md",
+    "oldPath": "操作系统\\03-文件管理\\read系统调用.md",
+    "oldName": "read系统调用.md"
+  },
+  {
+    "newPath": "操作系统\\03-文件管理\\2009年第29题-SCAN调度算法.md",
+    "action": "rename",
+    "newName": "2009年第29题-SCAN调度算法.md",
+    "oldPath": "操作系统\\03-文件管理\\SCAN调度算法.md",
+    "oldName": "SCAN调度算法.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2015年第28题-磁盘缓冲区目的.md",
+    "action": "rename",
+    "newName": "2015年第28题-磁盘缓冲区目的.md",
+    "oldPath": "操作系统\\04-IO管理\\磁盘缓冲区目的.md",
+    "oldName": "磁盘缓冲区目的.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2012年第32题-磁盘性能优化.md",
+    "action": "rename",
+    "newName": "2012年第32题-磁盘性能优化.md",
+    "oldPath": "操作系统\\04-IO管理\\磁盘性能优化.md",
+    "oldName": "磁盘性能优化.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2011年第26题-磁盘IO处理流程.md",
+    "action": "rename",
+    "newName": "2011年第26题-磁盘IO处理流程.md",
+    "oldPath": "操作系统\\04-IO管理\\磁盘IO处理流程.md",
+    "oldName": "磁盘IO处理流程.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2013年第27题-单缓冲时间计算.md",
+    "action": "rename",
+    "newName": "2013年第27题-单缓冲时间计算.md",
+    "oldPath": "操作系统\\04-IO管理\\单缓冲时间计算.md",
+    "oldName": "单缓冲时间计算.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2010年第32题-键盘中断处理.md",
+    "action": "rename",
+    "newName": "2010年第32题-键盘中断处理.md",
+    "oldPath": "操作系统\\04-IO管理\\键盘中断处理.md",
+    "oldName": "键盘中断处理.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2024年第31题-键盘中断数据位置.md",
+    "action": "rename",
+    "newName": "2024年第31题-键盘中断数据位置.md",
+    "oldPath": "操作系统\\04-IO管理\\键盘中断数据位置.md",
+    "oldName": "键盘中断数据位置.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2009年第32题-逻辑设备名.md",
+    "action": "rename",
+    "newName": "2009年第32题-逻辑设备名.md",
+    "oldPath": "操作系统\\04-IO管理\\逻辑设备名.md",
+    "oldName": "逻辑设备名.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2022年第32题-驱动程序.md",
+    "action": "rename",
+    "newName": "2022年第32题-驱动程序.md",
+    "oldPath": "操作系统\\04-IO管理\\驱动程序.md",
+    "oldName": "驱动程序.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2013年第25题-设备驱动程序功能.md",
+    "action": "rename",
+    "newName": "2013年第25题-设备驱动程序功能.md",
+    "oldPath": "操作系统\\04-IO管理\\设备驱动程序功能.md",
+    "oldName": "设备驱动程序功能.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2017年第32题-DMA传输顺序.md",
+    "action": "rename",
+    "newName": "2017年第32题-DMA传输顺序.md",
+    "oldPath": "操作系统\\04-IO管理\\DMA传输顺序.md",
+    "oldName": "DMA传输顺序.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2012年第26题-IO子系统层次.md",
+    "action": "rename",
+    "newName": "2012年第26题-IO子系统层次.md",
+    "oldPath": "操作系统\\04-IO管理\\IO子系统层次.md",
+    "oldName": "IO子系统层次.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2015年第32题-SCAN磁道移动数.md",
+    "action": "rename",
+    "newName": "2015年第32题-SCAN磁道移动数.md",
+    "oldPath": "操作系统\\04-IO管理\\SCAN磁道移动数.md",
+    "oldName": "SCAN磁道移动数.md"
+  },
+  {
+    "newPath": "操作系统\\04-IO管理\\2016年第31题-SPOOLing技术.md",
+    "action": "rename",
+    "newName": "2016年第31题-SPOOLing技术.md",
+    "oldPath": "操作系统\\04-IO管理\\SPOOLing技术.md",
+    "oldName": "SPOOLing技术.md"
+  },
+  {
+    "newPath": "数据结构\\00-算法\\2017年第01题-时间复杂度计算.md",
+    "action": "rename",
+    "newName": "2017年第01题-时间复杂度计算.md",
+    "oldPath": "数据结构\\00-算法\\时间复杂度计算.md",
+    "oldName": "时间复杂度计算.md"
+  },
+  {
+    "newPath": "数据结构\\00-算法基础\\2014年第01题-双层循环复杂度.md",
+    "action": "rename",
+    "newName": "2014年第01题-双层循环复杂度.md",
+    "oldPath": "数据结构\\00-算法基础\\双层循环复杂度.md",
+    "oldName": "双层循环复杂度.md"
+  },
+  {
+    "newPath": "数据结构\\00-算法基础\\2011年第01题-指数增长复杂度.md",
+    "action": "rename",
+    "newName": "2011年第01题-指数增长复杂度.md",
+    "oldPath": "数据结构\\00-算法基础\\指数增长复杂度.md",
+    "oldName": "指数增长复杂度.md"
+  },
+  {
+    "newPath": "数据结构\\00-线性表\\2016年第01题-单链表插入地址.md",
+    "action": "rename",
+    "newName": "2016年第01题-单链表插入地址.md",
+    "oldPath": "数据结构\\00-线性表\\单链表插入地址.md",
+    "oldName": "单链表插入地址.md"
+  },
+  {
+    "newPath": "数据结构\\00-线性表\\2016年第02题-双向循环链表删除.md",
+    "action": "rename",
+    "newName": "2016年第02题-双向循环链表删除.md",
+    "oldPath": "数据结构\\00-线性表\\双向循环链表删除.md",
+    "oldName": "双向循环链表删除.md"
+  },
+  {
+    "newPath": "数据结构\\01-栈队列\\2009年第01题-打印缓冲区结构.md",
+    "action": "rename",
+    "newName": "2009年第01题-打印缓冲区结构.md",
+    "oldPath": "数据结构\\01-栈队列\\打印缓冲区结构.md",
+    "oldName": "打印缓冲区结构.md"
+  },
+  {
+    "newPath": "数据结构\\01-栈队列\\2016年第03题-火车车轨栈模拟.md",
+    "action": "rename",
+    "newName": "2016年第03题-火车车轨栈模拟.md",
+    "oldPath": "数据结构\\01-栈队列\\火车车轨栈模拟.md",
+    "oldName": "火车车轨栈模拟.md"
+  },
+  {
+    "newPath": "数据结构\\01-栈队列\\2010年第02题-双端队列出队序列.md",
+    "action": "rename",
+    "newName": "2010年第02题-双端队列出队序列.md",
+    "oldPath": "数据结构\\01-栈队列\\双端队列出队序列.md",
+    "oldName": "双端队列出队序列.md"
+  },
+  {
+    "newPath": "数据结构\\01-栈队列\\2010年第01题-栈出栈序列限制.md",
+    "action": "rename",
+    "newName": "2010年第01题-栈出栈序列限制.md",
+    "oldPath": "数据结构\\01-栈队列\\栈出栈序列限制.md",
+    "oldName": "栈出栈序列限制.md"
+  },
+  {
+    "newPath": "数据结构\\01-栈队列\\2012年第02题-中缀转后缀栈深度.md",
+    "action": "rename",
+    "newName": "2012年第02题-中缀转后缀栈深度.md",
+    "oldPath": "数据结构\\01-栈队列\\中缀转后缀栈深度.md",
+    "oldName": "中缀转后缀栈深度.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2024年第01题-单链表.md",
+    "action": "rename",
+    "newName": "2024年第01题-单链表.md",
+    "oldPath": "数据结构\\01-线性表\\单链表.md",
+    "oldName": "单链表.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2016年第01题-单链表插入操作.md",
+    "action": "rename",
+    "newName": "2016年第01题-单链表插入操作.md",
+    "oldPath": "数据结构\\01-线性表\\单链表插入操作.md",
+    "oldName": "单链表插入操作.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2021年第01题-单循环链表.md",
+    "action": "rename",
+    "newName": "2021年第01题-单循环链表.md",
+    "oldPath": "数据结构\\01-线性表\\单循环链表.md",
+    "oldName": "单循环链表.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2018年第03题-对称矩阵行优先.md",
+    "action": "rename",
+    "newName": "2018年第03题-对称矩阵行优先.md",
+    "oldPath": "数据结构\\01-线性表\\对称矩阵行优先.md",
+    "oldName": "对称矩阵行优先.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2020年第01题-对称矩阵压缩存储.md",
+    "action": "rename",
+    "newName": "2020年第01题-对称矩阵压缩存储.md",
+    "oldPath": "数据结构\\01-线性表\\对称矩阵压缩存储.md",
+    "oldName": "对称矩阵压缩存储.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2021年第03题-二维数组地址计算.md",
+    "action": "rename",
+    "newName": "2021年第03题-二维数组地址计算.md",
+    "oldPath": "数据结构\\01-线性表\\二维数组地址计算.md",
+    "oldName": "二维数组地址计算.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2013年第01题-链表合并时间复杂度.md",
+    "action": "rename",
+    "newName": "2013年第01题-链表合并时间复杂度.md",
+    "oldPath": "数据结构\\01-线性表\\链表合并时间复杂度.md",
+    "oldName": "链表合并时间复杂度.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2016年第04题-三对角矩阵.md",
+    "action": "rename",
+    "newName": "2016年第04题-三对角矩阵.md",
+    "oldPath": "数据结构\\01-线性表\\三对角矩阵.md",
+    "oldName": "三对角矩阵.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2023年第02题-双向链表.md",
+    "action": "rename",
+    "newName": "2023年第02题-双向链表.md",
+    "oldPath": "数据结构\\01-线性表\\双向链表.md",
+    "oldName": "双向链表.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2023年第01题-顺序表.md",
+    "action": "rename",
+    "newName": "2023年第01题-顺序表.md",
+    "oldPath": "数据结构\\01-线性表\\顺序表.md",
+    "oldName": "顺序表.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2023年第03题-稀疏矩阵.md",
+    "action": "rename",
+    "newName": "2023年第03题-稀疏矩阵.md",
+    "oldPath": "数据结构\\01-线性表\\稀疏矩阵.md",
+    "oldName": "稀疏矩阵.md"
+  },
+  {
+    "newPath": "数据结构\\01-线性表\\2017年第03题-稀疏矩阵存储.md",
+    "action": "rename",
+    "newName": "2017年第03题-稀疏矩阵存储.md",
+    "oldPath": "数据结构\\01-线性表\\稀疏矩阵存储.md",
+    "oldName": "稀疏矩阵存储.md"
+  },
+  {
+    "newPath": "数据结构\\02-数组\\2016年第04题-三对角矩阵压缩.md",
+    "action": "rename",
+    "newName": "2016年第04题-三对角矩阵压缩.md",
+    "oldPath": "数据结构\\02-数组\\三对角矩阵压缩.md",
+    "oldName": "三对角矩阵压缩.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2015年第01题-递归栈.md",
+    "action": "rename",
+    "newName": "2015年第01题-递归栈.md",
+    "oldPath": "数据结构\\02-栈队列串\\递归栈.md",
+    "oldName": "递归栈.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2015年第01题-递归栈保存信息.md",
+    "action": "rename",
+    "newName": "2015年第01题-递归栈保存信息.md",
+    "oldPath": "数据结构\\02-栈队列串\\递归栈保存信息.md",
+    "oldName": "递归栈保存信息.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2021年第02题-双端队列.md",
+    "action": "rename",
+    "newName": "2021年第02题-双端队列.md",
+    "oldPath": "数据结构\\02-栈队列串\\双端队列.md",
+    "oldName": "双端队列.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2011年第03题-循环队列初始化.md",
+    "action": "rename",
+    "newName": "2011年第03题-循环队列初始化.md",
+    "oldPath": "数据结构\\02-栈队列串\\循环队列初始化.md",
+    "oldName": "循环队列初始化.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2014年第03题-循环队列判空判满.md",
+    "action": "rename",
+    "newName": "2014年第03题-循环队列判空判满.md",
+    "oldPath": "数据结构\\02-栈队列串\\循环队列判空判满.md",
+    "oldName": "循环队列判空判满.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2020年第02题-栈操作序列.md",
+    "action": "rename",
+    "newName": "2020年第02题-栈操作序列.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈操作序列.md",
+    "oldName": "栈操作序列.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2013年第02题-栈出栈可能值.md",
+    "action": "rename",
+    "newName": "2013年第02题-栈出栈可能值.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈出栈可能值.md",
+    "oldName": "栈出栈可能值.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2013年第02题-栈出栈序列.md",
+    "action": "rename",
+    "newName": "2013年第02题-栈出栈序列.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈出栈序列.md",
+    "oldName": "栈出栈序列.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2017年第02题-栈的性质.md",
+    "action": "rename",
+    "newName": "2017年第02题-栈的性质.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈的性质.md",
+    "oldName": "栈的性质.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2016年第03题-栈调度问题.md",
+    "action": "rename",
+    "newName": "2016年第03题-栈调度问题.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈调度问题.md",
+    "oldName": "栈调度问题.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2009年第02题-栈队列容量.md",
+    "action": "rename",
+    "newName": "2009年第02题-栈队列容量.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈队列容量.md",
+    "oldName": "栈队列容量.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2011年第02题-栈开头序列个数.md",
+    "action": "rename",
+    "newName": "2011年第02题-栈开头序列个数.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈开头序列个数.md",
+    "oldName": "栈开头序列个数.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2017年第02题-栈性质.md",
+    "action": "rename",
+    "newName": "2017年第02题-栈性质.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈性质.md",
+    "oldName": "栈性质.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2022年第02题-栈序列.md",
+    "action": "rename",
+    "newName": "2022年第02题-栈序列.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈序列.md",
+    "oldName": "栈序列.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2024年第02题-栈应用-表达式求值.md",
+    "action": "rename",
+    "newName": "2024年第02题-栈应用-表达式求值.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈应用-表达式求值.md",
+    "oldName": "栈应用-表达式求值.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2018年第02题-栈与队列操作.md",
+    "action": "rename",
+    "newName": "2018年第02题-栈与队列操作.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈与队列操作.md",
+    "oldName": "栈与队列操作.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2018年第01题-栈运算.md",
+    "action": "rename",
+    "newName": "2018年第01题-栈运算.md",
+    "oldPath": "数据结构\\02-栈队列串\\栈运算.md",
+    "oldName": "栈运算.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2014年第02题-中缀转后缀栈内容.md",
+    "action": "rename",
+    "newName": "2014年第02题-中缀转后缀栈内容.md",
+    "oldPath": "数据结构\\02-栈队列串\\中缀转后缀栈内容.md",
+    "oldName": "中缀转后缀栈内容.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2015年第08题-KMP算法失配.md",
+    "action": "rename",
+    "newName": "2015年第08题-KMP算法失配.md",
+    "oldPath": "数据结构\\02-栈队列串\\KMP算法失配.md",
+    "oldName": "KMP算法失配.md"
+  },
+  {
+    "newPath": "数据结构\\02-栈队列串\\2019年第09题-KMP字符比较次数.md",
+    "action": "rename",
+    "newName": "2019年第09题-KMP字符比较次数.md",
+    "oldPath": "数据结构\\02-栈队列串\\KMP字符比较次数.md",
+    "oldName": "KMP字符比较次数.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2018年第08题-3阶B树高度关键字.md",
+    "action": "rename",
+    "newName": "2018年第08题-3阶B树高度关键字.md",
+    "oldPath": "数据结构\\03-树\\3阶B树高度关键字.md",
+    "oldName": "3阶B树高度关键字.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2020年第10题-4阶B树插入.md",
+    "action": "rename",
+    "newName": "2020年第10题-4阶B树插入.md",
+    "oldPath": "数据结构\\03-树\\4阶B树插入.md",
+    "oldName": "4阶B树插入.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2013年第10题-5阶B树最少关键字.md",
+    "action": "rename",
+    "newName": "2013年第10题-5阶B树最少关键字.md",
+    "oldPath": "数据结构\\03-树\\5阶B树最少关键字.md",
+    "oldName": "5阶B树最少关键字.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2009年第03题-遍历方式识别.md",
+    "action": "rename",
+    "newName": "2009年第03题-遍历方式识别.md",
+    "oldPath": "数据结构\\03-树\\遍历方式识别.md",
+    "oldName": "遍历方式识别.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2017年第04题-遍历序列相同.md",
+    "action": "rename",
+    "newName": "2017年第04题-遍历序列相同.md",
+    "oldPath": "数据结构\\03-树\\遍历序列相同.md",
+    "oldName": "遍历序列相同.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2021年第11题-大根堆插入.md",
+    "action": "rename",
+    "newName": "2021年第11题-大根堆插入.md",
+    "oldPath": "数据结构\\03-树\\大根堆插入.md",
+    "oldName": "大根堆插入.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2020年第09题-大根堆性质.md",
+    "action": "rename",
+    "newName": "2020年第09题-大根堆性质.md",
+    "oldPath": "数据结构\\03-树\\大根堆性质.md",
+    "oldName": "大根堆性质.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2010年第05题-度为4的树叶子结点.md",
+    "action": "rename",
+    "newName": "2010年第05题-度为4的树叶子结点.md",
+    "oldPath": "数据结构\\03-树\\度为4的树叶子结点.md",
+    "oldName": "度为4的树叶子结点.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2021年第11题-堆的插入.md",
+    "action": "rename",
+    "newName": "2021年第11题-堆的插入.md",
+    "oldPath": "数据结构\\03-树\\堆的插入.md",
+    "oldName": "堆的插入.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2020年第09题-堆的性质.md",
+    "action": "rename",
+    "newName": "2020年第09题-堆的性质.md",
+    "oldPath": "数据结构\\03-树\\堆的性质.md",
+    "oldName": "堆的性质.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2015年第10题-堆删除操作.md",
+    "action": "rename",
+    "newName": "2015年第10题-堆删除操作.md",
+    "oldPath": "数据结构\\03-树\\堆删除操作.md",
+    "oldName": "堆删除操作.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2011年第07题-二叉排序树查找路径.md",
+    "action": "rename",
+    "newName": "2011年第07题-二叉排序树查找路径.md",
+    "oldPath": "数据结构\\03-树\\二叉排序树查找路径.md",
+    "oldName": "二叉排序树查找路径.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2020年第05题-二叉排序树构造.md",
+    "action": "rename",
+    "newName": "2020年第05题-二叉排序树构造.md",
+    "oldPath": "数据结构\\03-树\\二叉排序树构造.md",
+    "oldName": "二叉排序树构造.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2018年第06题-二叉排序树关系.md",
+    "action": "rename",
+    "newName": "2018年第06题-二叉排序树关系.md",
+    "oldPath": "数据结构\\03-树\\二叉排序树关系.md",
+    "oldName": "二叉排序树关系.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2013年第06题-二叉排序树删除插入.md",
+    "action": "rename",
+    "newName": "2013年第06题-二叉排序树删除插入.md",
+    "oldPath": "数据结构\\03-树\\二叉排序树删除插入.md",
+    "oldName": "二叉排序树删除插入.md"
+  },
+  {
+    "path": "数据结构\\03-树\\二叉树遍历.md",
+    "action": "delete",
+    "name": "二叉树遍历.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2017年第05题-二叉树层次判断.md",
+    "action": "rename",
+    "newName": "2017年第05题-二叉树层次判断.md",
+    "oldPath": "数据结构\\03-树\\二叉树层次判断.md",
+    "oldName": "二叉树层次判断.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2020年第03题-二叉树顺序存储.md",
+    "action": "rename",
+    "newName": "2020年第03题-二叉树顺序存储.md",
+    "oldPath": "数据结构\\03-树\\二叉树顺序存储.md",
+    "oldName": "二叉树顺序存储.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2024年第07题-二叉搜索树.md",
+    "action": "rename",
+    "newName": "2024年第07题-二叉搜索树.md",
+    "oldPath": "数据结构\\03-树\\二叉搜索树.md",
+    "oldName": "二叉搜索树.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2018年第05题-哈夫曼编码判断.md",
+    "action": "rename",
+    "newName": "2018年第05题-哈夫曼编码判断.md",
+    "oldPath": "数据结构\\03-树\\哈夫曼编码判断.md",
+    "oldName": "哈夫曼编码判断.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2022年第05题-哈夫曼编码与定长编码.md",
+    "action": "rename",
+    "newName": "2022年第05题-哈夫曼编码与定长编码.md",
+    "oldPath": "数据结构\\03-树\\哈夫曼编码与定长编码.md",
+    "oldName": "哈夫曼编码与定长编码.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2019年第03题-哈夫曼树节点数.md",
+    "action": "rename",
+    "newName": "2019年第03题-哈夫曼树节点数.md",
+    "oldPath": "数据结构\\03-树\\哈夫曼树节点数.md",
+    "oldName": "哈夫曼树节点数.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2015年第03题-哈夫曼树路径.md",
+    "action": "rename",
+    "newName": "2015年第03题-哈夫曼树路径.md",
+    "oldPath": "数据结构\\03-树\\哈夫曼树路径.md",
+    "oldName": "哈夫曼树路径.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2010年第06题-哈夫曼树性质.md",
+    "action": "rename",
+    "newName": "2010年第06题-哈夫曼树性质.md",
+    "oldPath": "数据结构\\03-树\\哈夫曼树性质.md",
+    "oldName": "哈夫曼树性质.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2021年第05题-哈夫曼树WPL.md",
+    "action": "rename",
+    "newName": "2021年第05题-哈夫曼树WPL.md",
+    "oldPath": "数据结构\\03-树\\哈夫曼树WPL.md",
+    "oldName": "哈夫曼树WPL.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2017年第06题-哈夫曼译码.md",
+    "action": "rename",
+    "newName": "2017年第06题-哈夫曼译码.md",
+    "oldPath": "数据结构\\03-树\\哈夫曼译码.md",
+    "oldName": "哈夫曼译码.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2013年第05题-后序线索树.md",
+    "action": "rename",
+    "newName": "2013年第05题-后序线索树.md",
+    "oldPath": "数据结构\\03-树\\后序线索树.md",
+    "oldName": "后序线索树.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2018年第11题-建堆过程.md",
+    "action": "rename",
+    "newName": "2018年第11题-建堆过程.md",
+    "oldPath": "数据结构\\03-树\\建堆过程.md",
+    "oldName": "建堆过程.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2010年第04题-平衡二叉树插入调整.md",
+    "action": "rename",
+    "newName": "2010年第04题-平衡二叉树插入调整.md",
+    "oldPath": "数据结构\\03-树\\平衡二叉树插入调整.md",
+    "oldName": "平衡二叉树插入调整.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2009年第04题-平衡二叉树判定.md",
+    "action": "rename",
+    "newName": "2009年第04题-平衡二叉树判定.md",
+    "oldPath": "数据结构\\03-树\\平衡二叉树判定.md",
+    "oldName": "平衡二叉树判定.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2012年第04题-平衡二叉树最少结点.md",
+    "action": "rename",
+    "newName": "2012年第04题-平衡二叉树最少结点.md",
+    "oldPath": "数据结构\\03-树\\平衡二叉树最少结点.md",
+    "oldName": "平衡二叉树最少结点.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2012年第03题-前序后序推导树结构.md",
+    "action": "rename",
+    "newName": "2012年第03题-前序后序推导树结构.md",
+    "oldPath": "数据结构\\03-树\\前序后序推导树结构.md",
+    "oldName": "前序后序推导树结构.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2011年第05题-前序后序推中序.md",
+    "action": "rename",
+    "newName": "2011年第05题-前序后序推中序.md",
+    "oldPath": "数据结构\\03-树\\前序后序推中序.md",
+    "oldName": "前序后序推中序.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2022年第04题-三叉树.md",
+    "action": "rename",
+    "newName": "2022年第04题-三叉树.md",
+    "oldPath": "数据结构\\03-树\\三叉树.md",
+    "oldName": "三叉树.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2013年第04题-三叉树带权路径长度.md",
+    "action": "rename",
+    "newName": "2013年第04题-三叉树带权路径长度.md",
+    "oldPath": "数据结构\\03-树\\三叉树带权路径长度.md",
+    "oldName": "三叉树带权路径长度.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2020年第04题-森林遍历.md",
+    "action": "rename",
+    "newName": "2020年第04题-森林遍历.md",
+    "oldPath": "数据结构\\03-树\\森林遍历.md",
+    "oldName": "森林遍历.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2016年第05题-森林树的个数.md",
+    "action": "rename",
+    "newName": "2016年第05题-森林树的个数.md",
+    "oldPath": "数据结构\\03-树\\森林树的个数.md",
+    "oldName": "森林树的个数.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2016年第05题-森林树数量.md",
+    "action": "rename",
+    "newName": "2016年第05题-森林树数量.md",
+    "oldPath": "数据结构\\03-树\\森林树数量.md",
+    "oldName": "森林树数量.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2021年第04题-森林与二叉树.md",
+    "action": "rename",
+    "newName": "2021年第04题-森林与二叉树.md",
+    "oldPath": "数据结构\\03-树\\森林与二叉树.md",
+    "oldName": "森林与二叉树.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2015年第06题-森林转二叉树2015.md",
+    "action": "rename",
+    "newName": "2015年第06题-森林转二叉树2015.md",
+    "oldPath": "数据结构\\03-树\\森林转二叉树2015.md",
+    "oldName": "森林转二叉树2015.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2009年第06题-森林转二叉树关系.md",
+    "action": "rename",
+    "newName": "2009年第06题-森林转二叉树关系.md",
+    "oldPath": "数据结构\\03-树\\森林转二叉树关系.md",
+    "oldName": "森林转二叉树关系.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2014年第05题-森林转二叉树叶节点.md",
+    "action": "rename",
+    "newName": "2014年第05题-森林转二叉树叶节点.md",
+    "oldPath": "数据结构\\03-树\\森林转二叉树叶节点.md",
+    "oldName": "森林转二叉树叶节点.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2019年第02题-树转二叉树遍历.md",
+    "action": "rename",
+    "newName": "2019年第02题-树转二叉树遍历.md",
+    "oldPath": "数据结构\\03-树\\树转二叉树遍历.md",
+    "oldName": "树转二叉树遍历.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2011年第06题-树转二叉树无右孩子.md",
+    "action": "rename",
+    "newName": "2011年第06题-树转二叉树无右孩子.md",
+    "oldPath": "数据结构\\03-树\\树转二叉树无右孩子.md",
+    "oldName": "树转二叉树无右孩子.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2018年第04题-完全二叉树节点数.md",
+    "action": "rename",
+    "newName": "2018年第04题-完全二叉树节点数.md",
+    "oldPath": "数据结构\\03-树\\完全二叉树节点数.md",
+    "oldName": "完全二叉树节点数.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2011年第04题-完全二叉树叶结点数.md",
+    "action": "rename",
+    "newName": "2011年第04题-完全二叉树叶结点数.md",
+    "oldPath": "数据结构\\03-树\\完全二叉树叶结点数.md",
+    "oldName": "完全二叉树叶结点数.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2009年第05题-完全二叉树最多节点.md",
+    "action": "rename",
+    "newName": "2009年第05题-完全二叉树最多节点.md",
+    "oldPath": "数据结构\\03-树\\完全二叉树最多节点.md",
+    "oldName": "完全二叉树最多节点.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2015年第02题-先序序列不同二叉树个数.md",
+    "action": "rename",
+    "newName": "2015年第02题-先序序列不同二叉树个数.md",
+    "oldPath": "数据结构\\03-树\\先序序列不同二叉树个数.md",
+    "oldName": "先序序列不同二叉树个数.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2015年第02题-先序序列二叉树个数.md",
+    "action": "rename",
+    "newName": "2015年第02题-先序序列二叉树个数.md",
+    "oldPath": "数据结构\\03-树\\先序序列二叉树个数.md",
+    "oldName": "先序序列二叉树个数.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2017年第04题-先序中序相同.md",
+    "action": "rename",
+    "newName": "2017年第04题-先序中序相同.md",
+    "oldPath": "数据结构\\03-树\\先序中序相同.md",
+    "oldName": "先序中序相同.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2021年第06题-AVL树插入.md",
+    "action": "rename",
+    "newName": "2021年第06题-AVL树插入.md",
+    "oldPath": "数据结构\\03-树\\AVL树插入.md",
+    "oldName": "AVL树插入.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2015年第04题-AVL树降序遍历.md",
+    "action": "rename",
+    "newName": "2015年第04题-AVL树降序遍历.md",
+    "oldPath": "数据结构\\03-树\\AVL树降序遍历.md",
+    "oldName": "AVL树降序遍历.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2013年第03题-AVL树平衡因子.md",
+    "action": "rename",
+    "newName": "2013年第03题-AVL树平衡因子.md",
+    "oldPath": "数据结构\\03-树\\AVL树平衡因子.md",
+    "oldName": "AVL树平衡因子.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2016年第10题-B+树特点.md",
+    "action": "rename",
+    "newName": "2016年第10题-B+树特点.md",
+    "oldPath": "数据结构\\03-树\\B+树特点.md",
+    "oldName": "B+树特点.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2017年第09题-B+树应用.md",
+    "action": "rename",
+    "newName": "2017年第09题-B+树应用.md",
+    "oldPath": "数据结构\\03-树\\B+树应用.md",
+    "oldName": "B+树应用.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2023年第07题-B树.md",
+    "action": "rename",
+    "newName": "2023年第07题-B树.md",
+    "oldPath": "数据结构\\03-树\\B树.md",
+    "oldName": "B树.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2020年第10题-B树插入.md",
+    "action": "rename",
+    "newName": "2020年第10题-B树插入.md",
+    "oldPath": "数据结构\\03-树\\B树插入.md",
+    "oldName": "B树插入.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2009年第08题-B树定义要求.md",
+    "action": "rename",
+    "newName": "2009年第08题-B树定义要求.md",
+    "oldPath": "数据结构\\03-树\\B树定义要求.md",
+    "oldName": "B树定义要求.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2018年第08题-B树关键字个数.md",
+    "action": "rename",
+    "newName": "2018年第08题-B树关键字个数.md",
+    "oldPath": "数据结构\\03-树\\B树关键字个数.md",
+    "oldName": "B树关键字个数.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2018年第08题-B树关键字数.md",
+    "action": "rename",
+    "newName": "2018年第08题-B树关键字数.md",
+    "oldPath": "数据结构\\03-树\\B树关键字数.md",
+    "oldName": "B树关键字数.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2014年第09题-B树节点个数.md",
+    "action": "rename",
+    "newName": "2014年第09题-B树节点个数.md",
+    "oldPath": "数据结构\\03-树\\B树节点个数.md",
+    "oldName": "B树节点个数.md"
+  },
+  {
+    "newPath": "数据结构\\03-树\\2021年第09题-B树节点数.md",
+    "action": "rename",
+    "newName": "2021年第09题-B树节点数.md",
+    "oldPath": "数据结构\\03-树\\B树节点数.md",
+    "oldName": "B树节点数.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2019年第06题-表达式DAG.md",
+    "action": "rename",
+    "newName": "2019年第06题-表达式DAG.md",
+    "oldPath": "数据结构\\04-图\\表达式DAG.md",
+    "oldName": "表达式DAG.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2017年第07题-顶点度计算.md",
+    "action": "rename",
+    "newName": "2017年第07题-顶点度计算.md",
+    "oldPath": "数据结构\\04-图\\顶点度计算.md",
+    "oldName": "顶点度计算.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2010年第07题-连通图最少边数.md",
+    "action": "rename",
+    "newName": "2010年第07题-连通图最少边数.md",
+    "oldPath": "数据结构\\04-图\\连通图最少边数.md",
+    "oldName": "连通图最少边数.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2012年第06题-拓扑排序存在性.md",
+    "action": "rename",
+    "newName": "2012年第06题-拓扑排序存在性.md",
+    "oldPath": "数据结构\\04-图\\拓扑排序存在性.md",
+    "oldName": "拓扑排序存在性.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2016年第07题-拓扑排序复杂度.md",
+    "action": "rename",
+    "newName": "2016年第07题-拓扑排序复杂度.md",
+    "oldPath": "数据结构\\04-图\\拓扑排序复杂度.md",
+    "oldName": "拓扑排序复杂度.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2014年第07题-拓扑排序结果判断.md",
+    "action": "rename",
+    "newName": "2014年第07题-拓扑排序结果判断.md",
+    "oldPath": "数据结构\\04-图\\拓扑排序结果判断.md",
+    "oldName": "拓扑排序结果判断.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2018年第07题-拓扑排序判断.md",
+    "action": "rename",
+    "newName": "2018年第07题-拓扑排序判断.md",
+    "oldPath": "数据结构\\04-图\\拓扑排序判断.md",
+    "oldName": "拓扑排序判断.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2016年第07题-拓扑排序时间复杂度.md",
+    "action": "rename",
+    "newName": "2016年第07题-拓扑排序时间复杂度.md",
+    "oldPath": "数据结构\\04-图\\拓扑排序时间复杂度.md",
+    "oldName": "拓扑排序时间复杂度.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2021年第07题-拓扑排序数量.md",
+    "action": "rename",
+    "newName": "2021年第07题-拓扑排序数量.md",
+    "oldPath": "数据结构\\04-图\\拓扑排序数量.md",
+    "oldName": "拓扑排序数量.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2010年第08题-拓扑序列个数.md",
+    "action": "rename",
+    "newName": "2010年第08题-拓扑序列个数.md",
+    "oldPath": "数据结构\\04-图\\拓扑序列个数.md",
+    "oldName": "拓扑序列个数.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2011年第08题-图的性质.md",
+    "action": "rename",
+    "newName": "2011年第08题-图的性质.md",
+    "oldPath": "数据结构\\04-图\\图的性质.md",
+    "oldName": "图的性质.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2016年第06题-图的DFS遍历序列.md",
+    "action": "rename",
+    "newName": "2016年第06题-图的DFS遍历序列.md",
+    "oldPath": "数据结构\\04-图\\图的DFS遍历序列.md",
+    "oldName": "图的DFS遍历序列.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2017年第07题-图顶点个数.md",
+    "action": "rename",
+    "newName": "2017年第07题-图顶点个数.md",
+    "oldPath": "数据结构\\04-图\\图顶点个数.md",
+    "oldName": "图顶点个数.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2009年第07题-无向连通图特性.md",
+    "action": "rename",
+    "newName": "2009年第07题-无向连通图特性.md",
+    "oldPath": "数据结构\\04-图\\无向连通图特性.md",
+    "oldName": "无向连通图特性.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2023年第06题-最短路径.md",
+    "action": "rename",
+    "newName": "2023年第06题-最短路径.md",
+    "oldPath": "数据结构\\04-图\\最短路径.md",
+    "oldName": "最短路径.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2012年第08题-最小生成树性质.md",
+    "action": "rename",
+    "newName": "2012年第08题-最小生成树性质.md",
+    "oldPath": "数据结构\\04-图\\最小生成树性质.md",
+    "oldName": "最小生成树性质.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2015年第05题-DFS遍历序列个数.md",
+    "action": "rename",
+    "newName": "2015年第05题-DFS遍历序列个数.md",
+    "oldPath": "数据结构\\04-图\\DFS遍历序列个数.md",
+    "oldName": "DFS遍历序列个数.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2016年第06题-DFS序列判断.md",
+    "action": "rename",
+    "newName": "2016年第06题-DFS序列判断.md",
+    "oldPath": "数据结构\\04-图\\DFS序列判断.md",
+    "oldName": "DFS序列判断.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2020年第06题-DFS应用.md",
+    "action": "rename",
+    "newName": "2020年第06题-DFS应用.md",
+    "oldPath": "数据结构\\04-图\\DFS应用.md",
+    "oldName": "DFS应用.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2012年第07题-Dijkstra路径顺序2012.md",
+    "action": "rename",
+    "newName": "2012年第07题-Dijkstra路径顺序2012.md",
+    "oldPath": "数据结构\\04-图\\Dijkstra路径顺序2012.md",
+    "oldName": "Dijkstra路径顺序2012.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2021年第08题-Dijkstra算法.md",
+    "action": "rename",
+    "newName": "2021年第08题-Dijkstra算法.md",
+    "oldPath": "数据结构\\04-图\\Dijkstra算法.md",
+    "oldName": "Dijkstra算法.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2016年第08题-Dijkstra最短路径顺序.md",
+    "action": "rename",
+    "newName": "2016年第08题-Dijkstra最短路径顺序.md",
+    "oldPath": "数据结构\\04-图\\Dijkstra最短路径顺序.md",
+    "oldName": "Dijkstra最短路径顺序.md"
+  },
+  {
+    "newPath": "数据结构\\04-图\\2020年第07题-Kruskal算法.md",
+    "action": "rename",
+    "newName": "2020年第07题-Kruskal算法.md",
+    "oldPath": "数据结构\\04-图\\Kruskal算法.md",
+    "oldName": "Kruskal算法.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2016年第11题-10TB数据排序方法.md",
+    "action": "rename",
+    "newName": "2016年第11题-10TB数据排序方法.md",
+    "oldPath": "数据结构\\05-查找排序\\10TB数据排序方法.md",
+    "oldName": "10TB数据排序方法.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2014年第11题-不可能快速排序结果.md",
+    "action": "rename",
+    "newName": "2014年第11题-不可能快速排序结果.md",
+    "oldPath": "数据结构\\05-查找排序\\不可能快速排序结果.md",
+    "oldName": "不可能快速排序结果.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2019年第08题-查找失败平均查找长度.md",
+    "action": "rename",
+    "newName": "2019年第08题-查找失败平均查找长度.md",
+    "oldPath": "数据结构\\05-查找排序\\查找失败平均查找长度.md",
+    "oldName": "查找失败平均查找长度.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2016年第09题-查找算法比较次数.md",
+    "action": "rename",
+    "newName": "2016年第09题-查找算法比较次数.md",
+    "oldPath": "数据结构\\05-查找排序\\查找算法比较次数.md",
+    "oldName": "查找算法比较次数.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2011年第11题-大根堆插入比较次数.md",
+    "action": "rename",
+    "newName": "2011年第11题-大根堆插入比较次数.md",
+    "oldPath": "数据结构\\05-查找排序\\大根堆插入比较次数.md",
+    "oldName": "大根堆插入比较次数.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2024年第09题-堆排序.md",
+    "action": "rename",
+    "newName": "2024年第09题-堆排序.md",
+    "oldPath": "数据结构\\05-查找排序\\堆排序.md",
+    "oldName": "堆排序.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2016年第09题-分块查找比较次数.md",
+    "action": "rename",
+    "newName": "2016年第09题-分块查找比较次数.md",
+    "oldPath": "数据结构\\05-查找排序\\分块查找比较次数.md",
+    "oldName": "分块查找比较次数.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2022年第10题-归并排序.md",
+    "action": "rename",
+    "newName": "2022年第10题-归并排序.md",
+    "oldPath": "数据结构\\05-查找排序\\归并排序.md",
+    "oldName": "归并排序.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2017年第10题-归并排序选择理由.md",
+    "action": "rename",
+    "newName": "2017年第10题-归并排序选择理由.md",
+    "oldPath": "数据结构\\05-查找排序\\归并排序选择理由.md",
+    "oldName": "归并排序选择理由.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2017年第10题-归并排序优势.md",
+    "action": "rename",
+    "newName": "2017年第10题-归并排序优势.md",
+    "oldPath": "数据结构\\05-查找排序\\归并排序优势.md",
+    "oldName": "归并排序优势.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2014年第08题-哈希堆积现象.md",
+    "action": "rename",
+    "newName": "2014年第08题-哈希堆积现象.md",
+    "oldPath": "数据结构\\05-查找排序\\哈希堆积现象.md",
+    "oldName": "哈希堆积现象.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2021年第10题-基数排序.md",
+    "action": "rename",
+    "newName": "2021年第10题-基数排序.md",
+    "oldPath": "数据结构\\05-查找排序\\基数排序.md",
+    "oldName": "基数排序.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2013年第11题-基数排序过程.md",
+    "action": "rename",
+    "newName": "2013年第11题-基数排序过程.md",
+    "oldPath": "数据结构\\05-查找排序\\基数排序过程.md",
+    "oldName": "基数排序过程.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2015年第09题-基数排序特点.md",
+    "action": "rename",
+    "newName": "2015年第09题-基数排序特点.md",
+    "oldPath": "数据结构\\05-查找排序\\基数排序特点.md",
+    "oldName": "基数排序特点.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2021年第10题-基数排序LSD.md",
+    "action": "rename",
+    "newName": "2021年第10题-基数排序LSD.md",
+    "oldPath": "数据结构\\05-查找排序\\基数排序LSD.md",
+    "oldName": "基数排序LSD.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2023年第11题-快速排序.md",
+    "action": "rename",
+    "newName": "2023年第11题-快速排序.md",
+    "oldPath": "数据结构\\05-查找排序\\快速排序.md",
+    "oldName": "快速排序.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2011年第10题-快速排序存储方式.md",
+    "action": "rename",
+    "newName": "2011年第10题-快速排序存储方式.md",
+    "oldPath": "数据结构\\05-查找排序\\快速排序存储方式.md",
+    "oldName": "快速排序存储方式.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2010年第10题-快速排序递归次数.md",
+    "action": "rename",
+    "newName": "2010年第10题-快速排序递归次数.md",
+    "oldPath": "数据结构\\05-查找排序\\快速排序递归次数.md",
+    "oldName": "快速排序递归次数.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2014年第11题-快速排序第2趟结果.md",
+    "action": "rename",
+    "newName": "2014年第11题-快速排序第2趟结果.md",
+    "oldPath": "数据结构\\05-查找排序\\快速排序第2趟结果.md",
+    "oldName": "快速排序第2趟结果.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2017年第11题-链式存储排序.md",
+    "action": "rename",
+    "newName": "2017年第11题-链式存储排序.md",
+    "oldPath": "数据结构\\05-查找排序\\链式存储排序.md",
+    "oldName": "链式存储排序.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2017年第11题-链式存储排序效率.md",
+    "action": "rename",
+    "newName": "2017年第11题-链式存储排序效率.md",
+    "oldPath": "数据结构\\05-查找排序\\链式存储排序效率.md",
+    "oldName": "链式存储排序效率.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2010年第11题-排序方法判断.md",
+    "action": "rename",
+    "newName": "2010年第11题-排序方法判断.md",
+    "oldPath": "数据结构\\05-查找排序\\排序方法判断.md",
+    "oldName": "排序方法判断.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2009年第10题-排序算法判断.md",
+    "action": "rename",
+    "newName": "2009年第10题-排序算法判断.md",
+    "oldPath": "数据结构\\05-查找排序\\排序算法判断.md",
+    "oldName": "排序算法判断.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2022年第11题-排序算法选择.md",
+    "action": "rename",
+    "newName": "2022年第11题-排序算法选择.md",
+    "oldPath": "数据结构\\05-查找排序\\排序算法选择.md",
+    "oldName": "排序算法选择.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2020年第11题-排序效率比较.md",
+    "action": "rename",
+    "newName": "2020年第11题-排序效率比较.md",
+    "oldPath": "数据结构\\05-查找排序\\排序效率比较.md",
+    "oldName": "排序效率比较.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2012年第10题-确定元素最终位置排序.md",
+    "action": "rename",
+    "newName": "2012年第10题-确定元素最终位置排序.md",
+    "oldPath": "数据结构\\05-查找排序\\确定元素最终位置排序.md",
+    "oldName": "确定元素最终位置排序.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2011年第09题-散列表查找效率.md",
+    "action": "rename",
+    "newName": "2011年第09题-散列表查找效率.md",
+    "oldPath": "数据结构\\05-查找排序\\散列表查找效率.md",
+    "oldName": "散列表查找效率.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2022年第09题-散列查找长度.md",
+    "action": "rename",
+    "newName": "2022年第09题-散列查找长度.md",
+    "oldPath": "数据结构\\05-查找排序\\散列查找长度.md",
+    "oldName": "散列查找长度.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2018年第09题-散列查找长度计算.md",
+    "action": "rename",
+    "newName": "2018年第09题-散列查找长度计算.md",
+    "oldPath": "数据结构\\05-查找排序\\散列查找长度计算.md",
+    "oldName": "散列查找长度计算.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2018年第09题-散列查找ASL.md",
+    "action": "rename",
+    "newName": "2018年第09题-散列查找ASL.md",
+    "oldPath": "数据结构\\05-查找排序\\散列查找ASL.md",
+    "oldName": "散列查找ASL.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2016年第09题-跳跃查找.md",
+    "action": "rename",
+    "newName": "2016年第09题-跳跃查找.md",
+    "oldPath": "数据结构\\05-查找排序\\跳跃查找.md",
+    "oldName": "跳跃查找.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2016年第09题-跳跃查找算法.md",
+    "action": "rename",
+    "newName": "2016年第09题-跳跃查找算法.md",
+    "oldPath": "数据结构\\05-查找排序\\跳跃查找算法.md",
+    "oldName": "跳跃查找算法.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2019年第11题-外部归并虚段个数.md",
+    "action": "rename",
+    "newName": "2019年第11题-外部归并虚段个数.md",
+    "oldPath": "数据结构\\05-查找排序\\外部归并虚段个数.md",
+    "oldName": "外部归并虚段个数.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2016年第11题-外部排序.md",
+    "action": "rename",
+    "newName": "2016年第11题-外部排序.md",
+    "oldPath": "数据结构\\05-查找排序\\外部排序.md",
+    "oldName": "外部排序.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2016年第11题-外部排序方法.md",
+    "action": "rename",
+    "newName": "2016年第11题-外部排序方法.md",
+    "oldPath": "数据结构\\05-查找排序\\外部排序方法.md",
+    "oldName": "外部排序方法.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2015年第11题-希尔排序方法.md",
+    "action": "rename",
+    "newName": "2015年第11题-希尔排序方法.md",
+    "oldPath": "数据结构\\05-查找排序\\希尔排序方法.md",
+    "oldName": "希尔排序方法.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2018年第10题-希尔排序两趟增量.md",
+    "action": "rename",
+    "newName": "2018年第10题-希尔排序两趟增量.md",
+    "oldPath": "数据结构\\05-查找排序\\希尔排序两趟增量.md",
+    "oldName": "希尔排序两趟增量.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2014年第10题-希尔排序增量.md",
+    "action": "rename",
+    "newName": "2014年第10题-希尔排序增量.md",
+    "oldPath": "数据结构\\05-查找排序\\希尔排序增量.md",
+    "oldName": "希尔排序增量.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2018年第09题-线性探测平均查找长度.md",
+    "action": "rename",
+    "newName": "2018年第09题-线性探测平均查找长度.md",
+    "oldPath": "数据结构\\05-查找排序\\线性探测平均查找长度.md",
+    "oldName": "线性探测平均查找长度.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2009年第09题-小根堆插入调整.md",
+    "action": "rename",
+    "newName": "2009年第09题-小根堆插入调整.md",
+    "oldPath": "数据结构\\05-查找排序\\小根堆插入调整.md",
+    "oldName": "小根堆插入调整.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2019年第11题-虚段补充.md",
+    "action": "rename",
+    "newName": "2019年第11题-虚段补充.md",
+    "oldPath": "数据结构\\05-查找排序\\虚段补充.md",
+    "oldName": "虚段补充.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2012年第11题-折半插入直接插入比较.md",
+    "action": "rename",
+    "newName": "2012年第11题-折半插入直接插入比较.md",
+    "oldPath": "数据结构\\05-查找排序\\折半插入直接插入比较.md",
+    "oldName": "折半插入直接插入比较.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2023年第08题-折半查找.md",
+    "action": "rename",
+    "newName": "2023年第08题-折半查找.md",
+    "oldPath": "数据结构\\05-查找排序\\折半查找.md",
+    "oldName": "折半查找.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2010年第09题-折半查找比较次数.md",
+    "action": "rename",
+    "newName": "2010年第09题-折半查找比较次数.md",
+    "oldPath": "数据结构\\05-查找排序\\折半查找比较次数.md",
+    "oldName": "折半查找比较次数.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2015年第07题-折半查找序列.md",
+    "action": "rename",
+    "newName": "2015年第07题-折半查找序列.md",
+    "oldPath": "数据结构\\05-查找排序\\折半查找序列.md",
+    "oldName": "折半查找序列.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2020年第11题-直接插入排序效率.md",
+    "action": "rename",
+    "newName": "2020年第11题-直接插入排序效率.md",
+    "oldPath": "数据结构\\05-查找排序\\直接插入排序效率.md",
+    "oldName": "直接插入排序效率.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2022年第11题-直接插入排序选择原因.md",
+    "action": "rename",
+    "newName": "2022年第11题-直接插入排序选择原因.md",
+    "oldPath": "数据结构\\05-查找排序\\直接插入排序选择原因.md",
+    "oldName": "直接插入排序选择原因.md"
+  },
+  {
+    "newPath": "数据结构\\05-查找排序\\2012年第09题-B树删除操作.md",
+    "action": "rename",
+    "newName": "2012年第09题-B树删除操作.md",
+    "oldPath": "数据结构\\05-查找排序\\B树删除操作.md",
+    "oldName": "B树删除操作.md"
+  },
+  {
+    "newPath": "综合\\2015年第29题-补充题目包1.md",
+    "action": "rename",
+    "newName": "2015年第29题-补充题目包1.md",
+    "oldPath": "综合\\补充题目包1.md",
+    "oldName": "补充题目包1.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-基本概念\\2016年第12题-编译程序.md",
+    "action": "rename",
+    "newName": "2016年第12题-编译程序.md",
+    "oldPath": "计算机组成原理\\00-基本概念\\编译程序.md",
+    "oldName": "编译程序.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-基本概念\\2022年第20题-程序翻译过程.md",
+    "action": "rename",
+    "newName": "2022年第20题-程序翻译过程.md",
+    "oldPath": "计算机组成原理\\00-基本概念\\程序翻译过程.md",
+    "oldName": "程序翻译过程.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-基本概念\\2018年第12题-二进制编码.md",
+    "action": "rename",
+    "newName": "2018年第12题-二进制编码.md",
+    "oldPath": "计算机组成原理\\00-基本概念\\二进制编码.md",
+    "oldName": "二进制编码.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-基本概念\\2018年第12题-二进制编码原因.md",
+    "action": "rename",
+    "newName": "2018年第12题-二进制编码原因.md",
+    "oldPath": "计算机组成原理\\00-基本概念\\二进制编码原因.md",
+    "oldName": "二进制编码原因.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-基本概念\\2019年第12题-冯诺依曼结构.md",
+    "action": "rename",
+    "newName": "2019年第12题-冯诺依曼结构.md",
+    "oldPath": "计算机组成原理\\00-基本概念\\冯诺依曼结构.md",
+    "oldName": "冯诺依曼结构.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-基本概念\\2015年第12题-机器语言.md",
+    "action": "rename",
+    "newName": "2015年第12题-机器语言.md",
+    "oldPath": "计算机组成原理\\00-基本概念\\机器语言.md",
+    "oldName": "机器语言.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-基本概念\\2020年第12题-机器字长.md",
+    "action": "rename",
+    "newName": "2020年第12题-机器字长.md",
+    "oldPath": "计算机组成原理\\00-基本概念\\机器字长.md",
+    "oldName": "机器字长.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-基本概念\\2020年第12题-机器字长相关部件.md",
+    "action": "rename",
+    "newName": "2020年第12题-机器字长相关部件.md",
+    "oldPath": "计算机组成原理\\00-基本概念\\机器字长相关部件.md",
+    "oldName": "机器字长相关部件.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2014年第12题-编译优化后执行时间.md",
+    "action": "rename",
+    "newName": "2014年第12题-编译优化后执行时间.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\编译优化后执行时间.md",
+    "oldName": "编译优化后执行时间.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2021年第12题-超级计算机运算速度.md",
+    "action": "rename",
+    "newName": "2021年第12题-超级计算机运算速度.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\超级计算机运算速度.md",
+    "oldName": "超级计算机运算速度.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2016年第12题-高级语言转机器码程序.md",
+    "action": "rename",
+    "newName": "2016年第12题-高级语言转机器码程序.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\高级语言转机器码程序.md",
+    "oldName": "高级语言转机器码程序.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2022年第12题-平均CPI和CPU时间.md",
+    "action": "rename",
+    "newName": "2022年第12题-平均CPI和CPU时间.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\平均CPI和CPU时间.md",
+    "oldName": "平均CPI和CPU时间.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2010年第12题-缩短执行时间措施.md",
+    "action": "rename",
+    "newName": "2010年第12题-缩短执行时间措施.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\缩短执行时间措施.md",
+    "oldName": "缩短执行时间措施.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2017年第12题-运行时间比值.md",
+    "action": "rename",
+    "newName": "2017年第12题-运行时间比值.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\运行时间比值.md",
+    "oldName": "运行时间比值.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2017年第12题-CPI和运行时间比值.md",
+    "action": "rename",
+    "newName": "2017年第12题-CPI和运行时间比值.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\CPI和运行时间比值.md",
+    "oldName": "CPI和运行时间比值.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2017年第12题-CPI性能比较.md",
+    "action": "rename",
+    "newName": "2017年第12题-CPI性能比较.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\CPI性能比较.md",
+    "oldName": "CPI性能比较.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2021年第12题-FLOPS.md",
+    "action": "rename",
+    "newName": "2021年第12题-FLOPS.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\FLOPS.md",
+    "oldName": "FLOPS.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2011年第12题-MFLOPS性能指标.md",
+    "action": "rename",
+    "newName": "2011年第12题-MFLOPS性能指标.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\MFLOPS性能指标.md",
+    "oldName": "MFLOPS性能指标.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-性能指标\\2013年第12题-MIPS数计算.md",
+    "action": "rename",
+    "newName": "2013年第12题-MIPS数计算.md",
+    "oldPath": "计算机组成原理\\00-性能指标\\MIPS数计算.md",
+    "oldName": "MIPS数计算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-概述\\2016年第12题-编译程序功能.md",
+    "action": "rename",
+    "newName": "2016年第12题-编译程序功能.md",
+    "oldPath": "计算机组成原理\\00-概述\\编译程序功能.md",
+    "oldName": "编译程序功能.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-概述\\2012年第12题-Amdahl定律加速比.md",
+    "action": "rename",
+    "newName": "2012年第12题-Amdahl定律加速比.md",
+    "oldPath": "计算机组成原理\\00-概述\\Amdahl定律加速比.md",
+    "oldName": "Amdahl定律加速比.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-系统组成\\2016年第12题-编译程序.md",
+    "action": "rename",
+    "newName": "2016年第12题-编译程序.md",
+    "oldPath": "计算机组成原理\\00-系统组成\\编译程序.md",
+    "oldName": "编译程序.md"
+  },
+  {
+    "newPath": "计算机组成原理\\00-系统组成\\2019年第12题-冯诺依曼结构基本思想.md",
+    "action": "rename",
+    "newName": "2019年第12题-冯诺依曼结构基本思想.md",
+    "oldPath": "计算机组成原理\\00-系统组成\\冯诺依曼结构基本思想.md",
+    "oldName": "冯诺依曼结构基本思想.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2015年第13题-3个1和5个0最小整数.md",
+    "action": "rename",
+    "newName": "2015年第13题-3个1和5个0最小整数.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\3个1和5个0最小整数.md",
+    "oldName": "3个1和5个0最小整数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2021年第13题-补码比较.md",
+    "action": "rename",
+    "newName": "2021年第13题-补码比较.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\补码比较.md",
+    "oldName": "补码比较.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2022年第13题-补码表示范围.md",
+    "action": "rename",
+    "newName": "2022年第13题-补码表示范围.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\补码表示范围.md",
+    "oldName": "补码表示范围.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2010年第13题-补码乘法溢出.md",
+    "action": "rename",
+    "newName": "2010年第13题-补码乘法溢出.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\补码乘法溢出.md",
+    "oldName": "补码乘法溢出.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2021年第13题-补码大小比较.md",
+    "action": "rename",
+    "newName": "2021年第13题-补码大小比较.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\补码大小比较.md",
+    "oldName": "补码大小比较.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2022年第13题-补码范围.md",
+    "action": "rename",
+    "newName": "2022年第13题-补码范围.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\补码范围.md",
+    "oldName": "补码范围.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2018年第13题-补码减法机器数.md",
+    "action": "rename",
+    "newName": "2018年第13题-补码减法机器数.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\补码减法机器数.md",
+    "oldName": "补码减法机器数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2014年第13题-补码溢出判断.md",
+    "action": "rename",
+    "newName": "2014年第13题-补码溢出判断.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\补码溢出判断.md",
+    "oldName": "补码溢出判断.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2020年第13题-补码与浮点数.md",
+    "action": "rename",
+    "newName": "2020年第13题-补码与浮点数.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\补码与浮点数.md",
+    "oldName": "补码与浮点数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2013年第14题-补码运算溢出.md",
+    "action": "rename",
+    "newName": "2013年第14题-补码运算溢出.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\补码运算溢出.md",
+    "oldName": "补码运算溢出.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2015年第13题-补码最小整数.md",
+    "action": "rename",
+    "newName": "2015年第13题-补码最小整数.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\补码最小整数.md",
+    "oldName": "补码最小整数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2018年第12题-二进制编码原因.md",
+    "action": "rename",
+    "newName": "2018年第12题-二进制编码原因.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\二进制编码原因.md",
+    "oldName": "二进制编码原因.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2009年第13题-浮点加法运算.md",
+    "action": "rename",
+    "newName": "2009年第13题-浮点加法运算.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\浮点加法运算.md",
+    "oldName": "浮点加法运算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2023年第14题-浮点数表示.md",
+    "action": "rename",
+    "newName": "2023年第14题-浮点数表示.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\浮点数表示.md",
+    "oldName": "浮点数表示.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2015年第14题-浮点数加减运算.md",
+    "action": "rename",
+    "newName": "2015年第14题-浮点数加减运算.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\浮点数加减运算.md",
+    "oldName": "浮点数加减运算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2010年第14题-浮点数类型转换.md",
+    "action": "rename",
+    "newName": "2010年第14题-浮点数类型转换.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\浮点数类型转换.md",
+    "oldName": "浮点数类型转换.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2012年第14题-浮点数最大正整数.md",
+    "action": "rename",
+    "newName": "2012年第14题-浮点数最大正整数.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\浮点数最大正整数.md",
+    "oldName": "浮点数最大正整数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2013年第15题-海明码校验位数.md",
+    "action": "rename",
+    "newName": "2013年第15题-海明码校验位数.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\海明码校验位数.md",
+    "oldName": "海明码校验位数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2012年第15题-结构体字节对齐.md",
+    "action": "rename",
+    "newName": "2012年第15题-结构体字节对齐.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\结构体字节对齐.md",
+    "oldName": "结构体字节对齐.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2012年第13题-无符号类型转换.md",
+    "action": "rename",
+    "newName": "2012年第13题-无符号类型转换.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\无符号类型转换.md",
+    "oldName": "无符号类型转换.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2016年第14题-小端存储单元内容.md",
+    "action": "rename",
+    "newName": "2016年第14题-小端存储单元内容.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\小端存储单元内容.md",
+    "oldName": "小端存储单元内容.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2016年第14题-小端存储地址内容.md",
+    "action": "rename",
+    "newName": "2016年第14题-小端存储地址内容.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\小端存储地址内容.md",
+    "oldName": "小端存储地址内容.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2020年第14题-小端方式.md",
+    "action": "rename",
+    "newName": "2020年第14题-小端方式.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\小端方式.md",
+    "oldName": "小端方式.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2018年第16题-移位操作.md",
+    "action": "rename",
+    "newName": "2018年第16题-移位操作.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\移位操作.md",
+    "oldName": "移位操作.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2023年第13题-整数表示.md",
+    "action": "rename",
+    "newName": "2023年第13题-整数表示.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\整数表示.md",
+    "oldName": "整数表示.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2024年第12题-整数表示与类型转换.md",
+    "action": "rename",
+    "newName": "2024年第12题-整数表示与类型转换.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\整数表示与类型转换.md",
+    "oldName": "整数表示与类型转换.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2022年第14题-IEEE754单精度表示.md",
+    "action": "rename",
+    "newName": "2022年第14题-IEEE754单精度表示.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\IEEE754单精度表示.md",
+    "oldName": "IEEE754单精度表示.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2011年第13题-IEEE754单精度浮点数表示.md",
+    "action": "rename",
+    "newName": "2011年第13题-IEEE754单精度浮点数表示.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\IEEE754单精度浮点数表示.md",
+    "oldName": "IEEE754单精度浮点数表示.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2022年第14题-IEEE754浮点数.md",
+    "action": "rename",
+    "newName": "2022年第14题-IEEE754浮点数.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\IEEE754浮点数.md",
+    "oldName": "IEEE754浮点数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2014年第14题-IEEE754浮点数大小比较.md",
+    "action": "rename",
+    "newName": "2014年第14题-IEEE754浮点数大小比较.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\IEEE754浮点数大小比较.md",
+    "oldName": "IEEE754浮点数大小比较.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2013年第13题-IEEE754浮点数值.md",
+    "action": "rename",
+    "newName": "2013年第13题-IEEE754浮点数值.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\IEEE754浮点数值.md",
+    "oldName": "IEEE754浮点数值.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2018年第14题-IEEE754规格化数.md",
+    "action": "rename",
+    "newName": "2018年第14题-IEEE754规格化数.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\IEEE754规格化数.md",
+    "oldName": "IEEE754规格化数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2021年第14题-IEEE754精度.md",
+    "action": "rename",
+    "newName": "2021年第14题-IEEE754精度.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\IEEE754精度.md",
+    "oldName": "IEEE754精度.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2021年第14题-IEEE754精确表示.md",
+    "action": "rename",
+    "newName": "2021年第14题-IEEE754精确表示.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\IEEE754精确表示.md",
+    "oldName": "IEEE754精确表示.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2018年第14题-IEEE754最小规格化正数.md",
+    "action": "rename",
+    "newName": "2018年第14题-IEEE754最小规格化正数.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\IEEE754最小规格化正数.md",
+    "oldName": "IEEE754最小规格化正数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2020年第13题-int和float机器数.md",
+    "action": "rename",
+    "newName": "2020年第13题-int和float机器数.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\int和float机器数.md",
+    "oldName": "int和float机器数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2009年第12题-short和int运算类型转换.md",
+    "action": "rename",
+    "newName": "2009年第12题-short和int运算类型转换.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\short和int运算类型转换.md",
+    "oldName": "short和int运算类型转换.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2016年第13题-short转unsigned.md",
+    "action": "rename",
+    "newName": "2016年第13题-short转unsigned.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\short转unsigned.md",
+    "oldName": "short转unsigned.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2016年第13题-unsigned类型转换.md",
+    "action": "rename",
+    "newName": "2016年第13题-unsigned类型转换.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\unsigned类型转换.md",
+    "oldName": "unsigned类型转换.md"
+  },
+  {
+    "newPath": "计算机组成原理\\01-数据表示\\2019年第13题-unsigned转short.md",
+    "action": "rename",
+    "newName": "2019年第13题-unsigned转short.md",
+    "oldPath": "计算机组成原理\\01-数据表示\\unsigned转short.md",
+    "oldName": "unsigned转short.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2009年第14题-2路组相联Cache组号.md",
+    "action": "rename",
+    "newName": "2009年第14题-2路组相联Cache组号.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\2路组相联Cache组号.md",
+    "oldName": "2路组相联Cache组号.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2017年第14题-程序局部性.md",
+    "action": "rename",
+    "newName": "2017年第14题-程序局部性.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\程序局部性.md",
+    "oldName": "程序局部性.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2019年第20题-磁盘存储器.md",
+    "action": "rename",
+    "newName": "2019年第20题-磁盘存储器.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\磁盘存储器.md",
+    "oldName": "磁盘存储器.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2013年第21题-磁盘平均访问时间.md",
+    "action": "rename",
+    "newName": "2013年第21题-磁盘平均访问时间.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\磁盘平均访问时间.md",
+    "oldName": "磁盘平均访问时间.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第16题-存储层次结构.md",
+    "action": "rename",
+    "newName": "2024年第16题-存储层次结构.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\存储层次结构.md",
+    "oldName": "存储层次结构.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2023年第15题-存储器地址分配.md",
+    "action": "rename",
+    "newName": "2023年第15题-存储器地址分配.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\存储器地址分配.md",
+    "oldName": "存储器地址分配.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2010年第15题-存储器芯片最小地址.md",
+    "action": "rename",
+    "newName": "2010年第15题-存储器芯片最小地址.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\存储器芯片最小地址.md",
+    "oldName": "存储器芯片最小地址.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2019年第19题-存储器总带宽.md",
+    "action": "rename",
+    "newName": "2019年第19题-存储器总带宽.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\存储器总带宽.md",
+    "oldName": "存储器总带宽.md"
+  },
+  {
+    "newName": "2024年第15题-存储系统综合.md",
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第15题-存储系统综合.md",
+    "num": "15",
+    "oldName": "存储系统综合.md",
+    "action": "split",
+    "year": "2024",
+    "sourcePath": "计算机组成原理\\02-存储系统\\存储系统综合.md"
+  },
+  {
+    "newName": "2024年第16题-存储系统综合.md",
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第16题-存储系统综合.md",
+    "num": "16",
+    "oldName": "存储系统综合.md",
+    "action": "split",
+    "year": "2024",
+    "sourcePath": "计算机组成原理\\02-存储系统\\存储系统综合.md"
+  },
+  {
+    "newName": "2024年第17题-存储系统综合.md",
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第17题-存储系统综合.md",
+    "num": "17",
+    "oldName": "存储系统综合.md",
+    "action": "split",
+    "year": "2024",
+    "sourcePath": "计算机组成原理\\02-存储系统\\存储系统综合.md"
+  },
+  {
+    "newName": "2024年第18题-存储系统综合.md",
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第18题-存储系统综合.md",
+    "num": "18",
+    "oldName": "存储系统综合.md",
+    "action": "split",
+    "year": "2024",
+    "sourcePath": "计算机组成原理\\02-存储系统\\存储系统综合.md"
+  },
+  {
+    "newName": "2024年第19题-存储系统综合.md",
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第19题-存储系统综合.md",
+    "num": "19",
+    "oldName": "存储系统综合.md",
+    "action": "split",
+    "year": "2024",
+    "sourcePath": "计算机组成原理\\02-存储系统\\存储系统综合.md"
+  },
+  {
+    "newName": "2024年第20题-存储系统综合.md",
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第20题-存储系统综合.md",
+    "num": "20",
+    "oldName": "存储系统综合.md",
+    "action": "split",
+    "year": "2024",
+    "sourcePath": "计算机组成原理\\02-存储系统\\存储系统综合.md"
+  },
+  {
+    "newName": "2024年第21题-存储系统综合.md",
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第21题-存储系统综合.md",
+    "num": "21",
+    "oldName": "存储系统综合.md",
+    "action": "split",
+    "year": "2024",
+    "sourcePath": "计算机组成原理\\02-存储系统\\存储系统综合.md"
+  },
+  {
+    "newName": "2024年第22题-存储系统综合.md",
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第22题-存储系统综合.md",
+    "num": "22",
+    "oldName": "存储系统综合.md",
+    "action": "split",
+    "year": "2024",
+    "sourcePath": "计算机组成原理\\02-存储系统\\存储系统综合.md"
+  },
+  {
+    "path": "计算机组成原理\\02-存储系统\\存储系统综合.md",
+    "action": "delete",
+    "name": "存储系统综合.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2017年第13题-交叉编址存储周期.md",
+    "action": "rename",
+    "newName": "2017年第13题-交叉编址存储周期.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\交叉编址存储周期.md",
+    "oldName": "交叉编址存储周期.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2017年第13题-交叉编址存储周期数.md",
+    "action": "rename",
+    "newName": "2017年第13题-交叉编址存储周期数.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\交叉编址存储周期数.md",
+    "oldName": "交叉编址存储周期数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2015年第18题-交叉编址访存冲突.md",
+    "action": "rename",
+    "newName": "2015年第18题-交叉编址访存冲突.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\交叉编址访存冲突.md",
+    "oldName": "交叉编址访存冲突.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2017年第14题-数组访问局部性.md",
+    "action": "rename",
+    "newName": "2017年第14题-数组访问局部性.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\数组访问局部性.md",
+    "oldName": "数组访问局部性.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2020年第14题-小端方式存储.md",
+    "action": "rename",
+    "newName": "2020年第14题-小端方式存储.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\小端方式存储.md",
+    "oldName": "小端方式存储.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2018年第15题-小端方式机器代码.md",
+    "action": "rename",
+    "newName": "2018年第15题-小端方式机器代码.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\小端方式机器代码.md",
+    "oldName": "小端方式机器代码.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2015年第16题-虚拟存储访存次数.md",
+    "action": "rename",
+    "newName": "2015年第16题-虚拟存储访存次数.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\虚拟存储访存次数.md",
+    "oldName": "虚拟存储访存次数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2022年第15题-虚拟地址转换.md",
+    "action": "rename",
+    "newName": "2022年第15题-虚拟地址转换.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\虚拟地址转换.md",
+    "oldName": "虚拟地址转换.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2014年第16题-指令数据Cache分离.md",
+    "action": "rename",
+    "newName": "2014年第16题-指令数据Cache分离.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\指令数据Cache分离.md",
+    "oldName": "指令数据Cache分离.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2014年第16题-指令Cache和数据Cache分离.md",
+    "action": "rename",
+    "newName": "2014年第16题-指令Cache和数据Cache分离.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\指令Cache和数据Cache分离.md",
+    "oldName": "指令Cache和数据Cache分离.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2022年第16题-Cache比较器.md",
+    "action": "rename",
+    "newName": "2022年第16题-Cache比较器.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\Cache比较器.md",
+    "oldName": "Cache比较器.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2012年第17题-Cache命中次数LRU.md",
+    "action": "rename",
+    "newName": "2012年第17题-Cache命中次数LRU.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\Cache命中次数LRU.md",
+    "oldName": "Cache命中次数LRU.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2009年第21题-Cache命中率计算.md",
+    "action": "rename",
+    "newName": "2009年第21题-Cache命中率计算.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\Cache命中率计算.md",
+    "oldName": "Cache命中率计算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2016年第15题-Cache缺失率.md",
+    "action": "rename",
+    "newName": "2016年第15题-Cache缺失率.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\Cache缺失率.md",
+    "oldName": "Cache缺失率.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2016年第15题-Cache缺失率计算.md",
+    "action": "rename",
+    "newName": "2016年第15题-Cache缺失率计算.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\Cache缺失率计算.md",
+    "oldName": "Cache缺失率计算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2021年第16题-Cache行位数.md",
+    "action": "rename",
+    "newName": "2021年第16题-Cache行位数.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\Cache行位数.md",
+    "oldName": "Cache行位数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2015年第15题-Cache总容量计算.md",
+    "action": "rename",
+    "newName": "2015年第15题-Cache总容量计算.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\Cache总容量计算.md",
+    "oldName": "Cache总容量计算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2011年第14题-CDROM存取方式.md",
+    "action": "rename",
+    "newName": "2011年第14题-CDROM存取方式.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\CDROM存取方式.md",
+    "oldName": "CDROM存取方式.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2022年第17题-DRAM.md",
+    "action": "rename",
+    "newName": "2022年第17题-DRAM.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\DRAM.md",
+    "oldName": "DRAM.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2018年第17题-DRAM存储阵列.md",
+    "action": "rename",
+    "newName": "2018年第17题-DRAM存储阵列.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\DRAM存储阵列.md",
+    "oldName": "DRAM存储阵列.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2018年第17题-DRAM地址引脚.md",
+    "action": "rename",
+    "newName": "2018年第17题-DRAM地址引脚.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\DRAM地址引脚.md",
+    "oldName": "DRAM地址引脚.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2014年第15题-DRAM地址引脚数.md",
+    "action": "rename",
+    "newName": "2014年第15题-DRAM地址引脚数.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\DRAM地址引脚数.md",
+    "oldName": "DRAM地址引脚数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2022年第17题-DRAM内存条.md",
+    "action": "rename",
+    "newName": "2022年第17题-DRAM内存条.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\DRAM内存条.md",
+    "oldName": "DRAM内存条.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2018年第17题-DRAM阵列行列数.md",
+    "action": "rename",
+    "newName": "2018年第17题-DRAM阵列行列数.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\DRAM阵列行列数.md",
+    "oldName": "DRAM阵列行列数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2012年第16题-Flash存储器特性.md",
+    "action": "rename",
+    "newName": "2012年第16题-Flash存储器特性.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\Flash存储器特性.md",
+    "oldName": "Flash存储器特性.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2011年第15题-MAR位数.md",
+    "action": "rename",
+    "newName": "2011年第15题-MAR位数.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\MAR位数.md",
+    "oldName": "MAR位数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第18题-MMU地址转换.md",
+    "action": "rename",
+    "newName": "2024年第18题-MMU地址转换.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\MMU地址转换.md",
+    "oldName": "MMU地址转换.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2010年第16题-RAM和ROM性质.md",
+    "action": "rename",
+    "newName": "2010年第16题-RAM和ROM性质.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\RAM和ROM性质.md",
+    "oldName": "RAM和ROM性质.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2021年第15题-RAM芯片数量.md",
+    "action": "rename",
+    "newName": "2021年第15题-RAM芯片数量.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\RAM芯片数量.md",
+    "oldName": "RAM芯片数量.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2009年第15题-ROM和RAM芯片数量.md",
+    "action": "rename",
+    "newName": "2009年第15题-ROM和RAM芯片数量.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\ROM和RAM芯片数量.md",
+    "oldName": "ROM和RAM芯片数量.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2015年第17题-SDRAM刷新.md",
+    "action": "rename",
+    "newName": "2015年第17题-SDRAM刷新.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\SDRAM刷新.md",
+    "oldName": "SDRAM刷新.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2016年第16题-SRAM芯片扩展.md",
+    "action": "rename",
+    "newName": "2016年第16题-SRAM芯片扩展.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\SRAM芯片扩展.md",
+    "oldName": "SRAM芯片扩展.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2016年第16题-SRAM芯片数量.md",
+    "action": "rename",
+    "newName": "2016年第16题-SRAM芯片数量.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\SRAM芯片数量.md",
+    "oldName": "SRAM芯片数量.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2024年第17题-TLB标记位数.md",
+    "action": "rename",
+    "newName": "2024年第17题-TLB标记位数.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\TLB标记位数.md",
+    "oldName": "TLB标记位数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2020年第15题-TLB和Cache比较.md",
+    "action": "rename",
+    "newName": "2020年第15题-TLB和Cache比较.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\TLB和Cache比较.md",
+    "oldName": "TLB和Cache比较.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2010年第17题-TLB和Cache命中组合.md",
+    "action": "rename",
+    "newName": "2010年第17题-TLB和Cache命中组合.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\TLB和Cache命中组合.md",
+    "oldName": "TLB和Cache命中组合.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2013年第16题-TLB虚实地址变换.md",
+    "action": "rename",
+    "newName": "2013年第16题-TLB虚实地址变换.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\TLB虚实地址变换.md",
+    "oldName": "TLB虚实地址变换.md"
+  },
+  {
+    "newPath": "计算机组成原理\\02-存储系统\\2020年第15题-TLB与Cache.md",
+    "action": "rename",
+    "newName": "2020年第15题-TLB与Cache.md",
+    "oldPath": "计算机组成原理\\02-存储系统\\TLB与Cache.md",
+    "oldName": "TLB与Cache.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2016年第17题-变址间址寻址.md",
+    "action": "rename",
+    "newName": "2016年第17题-变址间址寻址.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\变址间址寻址.md",
+    "oldName": "变址间址寻址.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2013年第17题-变址寻址操作数.md",
+    "action": "rename",
+    "newName": "2013年第17题-变址寻址操作数.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\变址寻址操作数.md",
+    "oldName": "变址寻址操作数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2017年第15题-变址寻址访问数组.md",
+    "action": "rename",
+    "newName": "2017年第15题-变址寻址访问数组.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\变址寻址访问数组.md",
+    "oldName": "变址寻址访问数组.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2017年第15题-变址寻址应用.md",
+    "action": "rename",
+    "newName": "2017年第15题-变址寻址应用.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\变址寻址应用.md",
+    "oldName": "变址寻址应用.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2021年第17题-程序员可见寄存器.md",
+    "action": "rename",
+    "newName": "2021年第17题-程序员可见寄存器.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\程序员可见寄存器.md",
+    "oldName": "程序员可见寄存器.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2019年第15题-大端寻址LSB位置.md",
+    "action": "rename",
+    "newName": "2019年第15题-大端寻址LSB位置.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\大端寻址LSB位置.md",
+    "oldName": "大端寻址LSB位置.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2016年第20题-单周期处理器.md",
+    "action": "rename",
+    "newName": "2016年第20题-单周期处理器.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\单周期处理器.md",
+    "oldName": "单周期处理器.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2022年第19题-扩展编码.md",
+    "action": "rename",
+    "newName": "2022年第19题-扩展编码.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\扩展编码.md",
+    "oldName": "扩展编码.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2022年第19题-扩展操作码零地址.md",
+    "action": "rename",
+    "newName": "2022年第19题-扩展操作码零地址.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\扩展操作码零地址.md",
+    "oldName": "扩展操作码零地址.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2016年第19题-流水线数据冒险.md",
+    "action": "rename",
+    "newName": "2016年第19题-流水线数据冒险.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\流水线数据冒险.md",
+    "oldName": "流水线数据冒险.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2011年第16题-偏移寻址方式.md",
+    "action": "rename",
+    "newName": "2011年第16题-偏移寻址方式.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\偏移寻址方式.md",
+    "oldName": "偏移寻址方式.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2017年第15题-数组访问寻址.md",
+    "action": "rename",
+    "newName": "2017年第15题-数组访问寻址.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\数组访问寻址.md",
+    "oldName": "数组访问寻址.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2012年第18题-微指令字段编码.md",
+    "action": "rename",
+    "newName": "2012年第18题-微指令字段编码.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\微指令字段编码.md",
+    "oldName": "微指令字段编码.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2011年第17题-无符号整数比较转移条件.md",
+    "action": "rename",
+    "newName": "2011年第17题-无符号整数比较转移条件.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\无符号整数比较转移条件.md",
+    "oldName": "无符号整数比较转移条件.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2016年第17题-先变址后间址.md",
+    "action": "rename",
+    "newName": "2016年第17题-先变址后间址.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\先变址后间址.md",
+    "oldName": "先变址后间址.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2009年第16题-相对寻址转移目标地址.md",
+    "action": "rename",
+    "newName": "2009年第16题-相对寻址转移目标地址.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\相对寻址转移目标地址.md",
+    "oldName": "相对寻址转移目标地址.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2020年第16题-寻址范围.md",
+    "action": "rename",
+    "newName": "2020年第16题-寻址范围.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\寻址范围.md",
+    "oldName": "寻址范围.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2020年第16题-直接寻址范围.md",
+    "action": "rename",
+    "newName": "2020年第16题-直接寻址范围.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\直接寻址范围.md",
+    "oldName": "直接寻址范围.md"
+  },
+  {
+    "newName": "2024年第13题-指令类型.md",
+    "newPath": "计算机组成原理\\03-指令系统\\2024年第13题-指令类型.md",
+    "num": "13",
+    "oldName": "指令类型.md",
+    "action": "split",
+    "year": "2024",
+    "sourcePath": "计算机组成原理\\03-指令系统\\指令类型.md"
+  },
+  {
+    "newName": "2024年第14题-指令类型.md",
+    "newPath": "计算机组成原理\\03-指令系统\\2024年第14题-指令类型.md",
+    "num": "14",
+    "oldName": "指令类型.md",
+    "action": "split",
+    "year": "2024",
+    "sourcePath": "计算机组成原理\\03-指令系统\\指令类型.md"
+  },
+  {
+    "path": "计算机组成原理\\03-指令系统\\指令类型.md",
+    "action": "delete",
+    "name": "指令类型.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2017年第16题-指令字长计算.md",
+    "action": "rename",
+    "newName": "2017年第16题-指令字长计算.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\指令字长计算.md",
+    "oldName": "指令字长计算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2022年第18题-ISA规定内容.md",
+    "action": "rename",
+    "newName": "2022年第18题-ISA规定内容.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\ISA规定内容.md",
+    "oldName": "ISA规定内容.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2022年第18题-ISA内容.md",
+    "action": "rename",
+    "newName": "2022年第18题-ISA内容.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\ISA内容.md",
+    "oldName": "ISA内容.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2016年第18题-PCIR位数.md",
+    "action": "rename",
+    "newName": "2016年第18题-PCIR位数.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\PCIR位数.md",
+    "oldName": "PCIR位数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-指令系统\\2014年第17题-Store指令偏移量范围.md",
+    "action": "rename",
+    "newName": "2014年第17题-Store指令偏移量范围.md",
+    "oldPath": "计算机组成原理\\03-指令系统\\Store指令偏移量范围.md",
+    "oldName": "Store指令偏移量范围.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-运算器\\2023年第16题-标志位.md",
+    "action": "rename",
+    "newName": "2023年第16题-标志位.md",
+    "oldPath": "计算机组成原理\\03-运算器\\标志位.md",
+    "oldName": "标志位.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-运算器\\2018年第19题-补码减法标志位.md",
+    "action": "rename",
+    "newName": "2018年第19题-补码减法标志位.md",
+    "oldPath": "计算机组成原理\\03-运算器\\补码减法标志位.md",
+    "oldName": "补码减法标志位.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-运算器\\2015年第14题-浮点数加减运算.md",
+    "action": "rename",
+    "newName": "2015年第14题-浮点数加减运算.md",
+    "oldPath": "计算机组成原理\\03-运算器\\浮点数加减运算.md",
+    "oldName": "浮点数加减运算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\03-运算器\\2018年第16题-逻辑右移和算术右移.md",
+    "action": "rename",
+    "newName": "2018年第16题-逻辑右移和算术右移.md",
+    "oldPath": "计算机组成原理\\03-运算器\\逻辑右移和算术右移.md",
+    "oldName": "逻辑右移和算术右移.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2023年第19题-流水线冒险.md",
+    "action": "rename",
+    "newName": "2023年第19题-流水线冒险.md",
+    "oldPath": "计算机组成原理\\04-CPU\\流水线冒险.md",
+    "oldName": "流水线冒险.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2019年第16题-时钟脉冲.md",
+    "action": "rename",
+    "newName": "2019年第16题-时钟脉冲.md",
+    "oldPath": "计算机组成原理\\04-CPU\\时钟脉冲.md",
+    "oldName": "时钟脉冲.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2019年第16题-时钟脉冲信号.md",
+    "action": "rename",
+    "newName": "2019年第16题-时钟脉冲信号.md",
+    "oldPath": "计算机组成原理\\04-CPU\\时钟脉冲信号.md",
+    "oldName": "时钟脉冲信号.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2023年第18题-数据通路.md",
+    "action": "rename",
+    "newName": "2023年第18题-数据通路.md",
+    "oldPath": "计算机组成原理\\04-CPU\\数据通路.md",
+    "oldName": "数据通路.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2021年第18题-数据通路结构.md",
+    "action": "rename",
+    "newName": "2021年第18题-数据通路结构.md",
+    "oldPath": "计算机组成原理\\04-CPU\\数据通路结构.md",
+    "oldName": "数据通路结构.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2021年第18题-数据通路组成.md",
+    "action": "rename",
+    "newName": "2021年第18题-数据通路组成.md",
+    "oldPath": "计算机组成原理\\04-CPU\\数据通路组成.md",
+    "oldName": "数据通路组成.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2019年第17题-指令执行用到的部件.md",
+    "action": "rename",
+    "newName": "2019年第17题-指令执行用到的部件.md",
+    "oldPath": "计算机组成原理\\04-CPU\\指令执行用到的部件.md",
+    "oldName": "指令执行用到的部件.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2022年第12题-CPI计算.md",
+    "action": "rename",
+    "newName": "2022年第12题-CPI计算.md",
+    "oldPath": "计算机组成原理\\04-CPU\\CPI计算.md",
+    "oldName": "CPI计算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2020年第17题-CPI理想值.md",
+    "action": "rename",
+    "newName": "2020年第17题-CPI理想值.md",
+    "oldPath": "计算机组成原理\\04-CPU\\CPI理想值.md",
+    "oldName": "CPI理想值.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2020年第17题-CPI为1的处理器.md",
+    "action": "rename",
+    "newName": "2020年第17题-CPI为1的处理器.md",
+    "oldPath": "计算机组成原理\\04-CPU\\CPI为1的处理器.md",
+    "oldName": "CPI为1的处理器.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-CPU\\2023年第12题-CPU性能计算.md",
+    "action": "rename",
+    "newName": "2023年第12题-CPU性能计算.md",
+    "oldPath": "计算机组成原理\\04-CPU\\CPU性能计算.md",
+    "oldName": "CPU性能计算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-总线\\2012年第19题-突发传输时间.md",
+    "action": "rename",
+    "newName": "2012年第19题-突发传输时间.md",
+    "oldPath": "计算机组成原理\\04-总线\\突发传输时间.md",
+    "oldName": "突发传输时间.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-总线\\2012年第20题-USB总线特性.md",
+    "action": "rename",
+    "newName": "2012年第20题-USB总线特性.md",
+    "oldPath": "计算机组成原理\\04-总线\\USB总线特性.md",
+    "oldName": "USB总线特性.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2017年第17题-超标量流水线特性.md",
+    "action": "rename",
+    "newName": "2017年第17题-超标量流水线特性.md",
+    "oldPath": "计算机组成原理\\04-流水线\\超标量流水线特性.md",
+    "oldName": "超标量流水线特性.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2018年第20题-流水段寄存器延时.md",
+    "action": "rename",
+    "newName": "2018年第20题-流水段寄存器延时.md",
+    "oldPath": "计算机组成原理\\04-流水线\\流水段寄存器延时.md",
+    "oldName": "流水段寄存器延时.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2018年第20题-流水线时钟周期.md",
+    "action": "rename",
+    "newName": "2018年第20题-流水线时钟周期.md",
+    "oldPath": "计算机组成原理\\04-流水线\\流水线时钟周期.md",
+    "oldName": "流水线时钟周期.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2017年第19题-流水线数据通路.md",
+    "action": "rename",
+    "newName": "2017年第19题-流水线数据通路.md",
+    "oldPath": "计算机组成原理\\04-流水线\\流水线数据通路.md",
+    "oldName": "流水线数据通路.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2013年第18题-流水线吞吐率计算.md",
+    "action": "rename",
+    "newName": "2013年第18题-流水线吞吐率计算.md",
+    "oldPath": "计算机组成原理\\04-流水线\\流水线吞吐率计算.md",
+    "oldName": "流水线吞吐率计算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2009年第18题-流水线CPU时钟周期.md",
+    "action": "rename",
+    "newName": "2009年第18题-流水线CPU时钟周期.md",
+    "oldPath": "计算机组成原理\\04-流水线\\流水线CPU时钟周期.md",
+    "oldName": "流水线CPU时钟周期.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2019年第18题-数据冒险.md",
+    "action": "rename",
+    "newName": "2019年第18题-数据冒险.md",
+    "oldPath": "计算机组成原理\\04-流水线\\数据冒险.md",
+    "oldName": "数据冒险.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2024年第19题-数据冒险处理.md",
+    "action": "rename",
+    "newName": "2024年第19题-数据冒险处理.md",
+    "oldPath": "计算机组成原理\\04-流水线\\数据冒险处理.md",
+    "oldName": "数据冒险处理.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2016年第19题-数据冒险判断.md",
+    "action": "rename",
+    "newName": "2016年第19题-数据冒险判断.md",
+    "oldPath": "计算机组成原理\\04-流水线\\数据冒险判断.md",
+    "oldName": "数据冒险判断.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2016年第19题-数据冒险指令对.md",
+    "action": "rename",
+    "newName": "2016年第19题-数据冒险指令对.md",
+    "oldPath": "计算机组成原理\\04-流水线\\数据冒险指令对.md",
+    "oldName": "数据冒险指令对.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2010年第19题-数据旁路不引起流水线阻塞.md",
+    "action": "rename",
+    "newName": "2010年第19题-数据旁路不引起流水线阻塞.md",
+    "oldPath": "计算机组成原理\\04-流水线\\数据旁路不引起流水线阻塞.md",
+    "oldName": "数据旁路不引起流水线阻塞.md"
+  },
+  {
+    "newPath": "计算机组成原理\\04-流水线\\2011年第18题-有利于流水线的指令系统特点.md",
+    "action": "rename",
+    "newName": "2011年第18题-有利于流水线的指令系统特点.md",
+    "oldPath": "计算机组成原理\\04-流水线\\有利于流水线的指令系统特点.md",
+    "oldName": "有利于流水线的指令系统特点.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2019年第20题-磁盘读写单位.md",
+    "action": "rename",
+    "newName": "2019年第20题-磁盘读写单位.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\磁盘读写单位.md",
+    "oldName": "磁盘读写单位.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2015年第20题-磁盘平均存取时间.md",
+    "action": "rename",
+    "newName": "2015年第20题-磁盘平均存取时间.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\磁盘平均存取时间.md",
+    "oldName": "磁盘平均存取时间.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2011年第22题-定时查询IO时间占比.md",
+    "action": "rename",
+    "newName": "2011年第22题-定时查询IO时间占比.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\定时查询IO时间占比.md",
+    "oldName": "定时查询IO时间占比.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2010年第22题-显存总带宽计算.md",
+    "action": "rename",
+    "newName": "2010年第22题-显存总带宽计算.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\显存总带宽计算.md",
+    "oldName": "显存总带宽计算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2023年第21题-中断.md",
+    "action": "rename",
+    "newName": "2023年第21题-中断.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\中断.md",
+    "oldName": "中断.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2013年第22题-中断和DMA比较.md",
+    "action": "rename",
+    "newName": "2013年第22题-中断和DMA比较.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\中断和DMA比较.md",
+    "oldName": "中断和DMA比较.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2019年第21题-中断开销.md",
+    "action": "rename",
+    "newName": "2019年第21题-中断开销.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\中断开销.md",
+    "oldName": "中断开销.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2014年第22题-中断响应IO时间占比.md",
+    "action": "rename",
+    "newName": "2014年第22题-中断响应IO时间占比.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\中断响应IO时间占比.md",
+    "oldName": "中断响应IO时间占比.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2012年第22题-中断隐指令操作.md",
+    "action": "rename",
+    "newName": "2012年第22题-中断隐指令操作.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\中断隐指令操作.md",
+    "oldName": "中断隐指令操作.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2024年第21题-中断IO方式.md",
+    "action": "rename",
+    "newName": "2024年第21题-中断IO方式.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\中断IO方式.md",
+    "oldName": "中断IO方式.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2022年第21题-中断IO方式特点.md",
+    "action": "rename",
+    "newName": "2022年第21题-中断IO方式特点.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\中断IO方式特点.md",
+    "oldName": "中断IO方式特点.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2014年第22题-中断IO时间占比.md",
+    "action": "rename",
+    "newName": "2014年第22题-中断IO时间占比.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\中断IO时间占比.md",
+    "oldName": "中断IO时间占比.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2015年第21题-中断IO信息交换.md",
+    "action": "rename",
+    "newName": "2015年第21题-中断IO信息交换.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\中断IO信息交换.md",
+    "oldName": "中断IO信息交换.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2024年第22题-DMA传输通路.md",
+    "action": "rename",
+    "newName": "2024年第22题-DMA传输通路.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\DMA传输通路.md",
+    "oldName": "DMA传输通路.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2019年第22题-DMA方式.md",
+    "action": "rename",
+    "newName": "2019年第22题-DMA方式.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\DMA方式.md",
+    "oldName": "DMA方式.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2019年第22题-DMA方式特点.md",
+    "action": "rename",
+    "newName": "2019年第22题-DMA方式特点.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\DMA方式特点.md",
+    "oldName": "DMA方式特点.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2020年第22题-DMA周期挪用.md",
+    "action": "rename",
+    "newName": "2020年第22题-DMA周期挪用.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\DMA周期挪用.md",
+    "oldName": "DMA周期挪用.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2021年第20题-IO接口.md",
+    "action": "rename",
+    "newName": "2021年第20题-IO接口.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\IO接口.md",
+    "oldName": "IO接口.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2014年第21题-IO接口编址.md",
+    "action": "rename",
+    "newName": "2014年第21题-IO接口编址.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\IO接口编址.md",
+    "oldName": "IO接口编址.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2023年第22题-IO控制方式.md",
+    "action": "rename",
+    "newName": "2023年第22题-IO控制方式.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\IO控制方式.md",
+    "oldName": "IO控制方式.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2017年第21题-IO指令数据传送.md",
+    "action": "rename",
+    "newName": "2017年第21题-IO指令数据传送.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\IO指令数据传送.md",
+    "oldName": "IO指令数据传送.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2012年第21题-IO总线数据传输.md",
+    "action": "rename",
+    "newName": "2012年第21题-IO总线数据传输.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\IO总线数据传输.md",
+    "oldName": "IO总线数据传输.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-IO系统\\2013年第20题-RAID可靠性措施.md",
+    "action": "rename",
+    "newName": "2013年第20题-RAID可靠性措施.md",
+    "oldPath": "计算机组成原理\\05-IO系统\\RAID可靠性措施.md",
+    "oldName": "RAID可靠性措施.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断\\2012年第24题-程序状态字保存.md",
+    "action": "rename",
+    "newName": "2012年第24题-程序状态字保存.md",
+    "oldPath": "计算机组成原理\\05-中断\\程序状态字保存.md",
+    "oldName": "程序状态字保存.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断\\2017年第22题-多重中断系统.md",
+    "action": "rename",
+    "newName": "2017年第22题-多重中断系统.md",
+    "oldPath": "计算机组成原理\\05-中断\\多重中断系统.md",
+    "oldName": "多重中断系统.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断\\2015年第22题-内部异常处理.md",
+    "action": "rename",
+    "newName": "2015年第22题-内部异常处理.md",
+    "oldPath": "计算机组成原理\\05-中断\\内部异常处理.md",
+    "oldName": "内部异常处理.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断\\2009年第22题-外部中断事件.md",
+    "action": "rename",
+    "newName": "2009年第22题-外部中断事件.md",
+    "oldPath": "计算机组成原理\\05-中断\\外部中断事件.md",
+    "oldName": "外部中断事件.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断\\2018年第22题-外部中断响应.md",
+    "action": "rename",
+    "newName": "2018年第22题-外部中断响应.md",
+    "oldPath": "计算机组成原理\\05-中断\\外部中断响应.md",
+    "oldName": "外部中断响应.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断\\2010年第21题-中断服务程序执行顺序.md",
+    "action": "rename",
+    "newName": "2010年第21题-中断服务程序执行顺序.md",
+    "oldPath": "计算机组成原理\\05-中断\\中断服务程序执行顺序.md",
+    "oldName": "中断服务程序执行顺序.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断\\2016年第22题-中断和异常区分.md",
+    "action": "rename",
+    "newName": "2016年第22题-中断和异常区分.md",
+    "oldPath": "计算机组成原理\\05-中断\\中断和异常区分.md",
+    "oldName": "中断和异常区分.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断\\2011年第21题-中断屏蔽字设置.md",
+    "action": "rename",
+    "newName": "2011年第21题-中断屏蔽字设置.md",
+    "oldPath": "计算机组成原理\\05-中断\\中断屏蔽字设置.md",
+    "oldName": "中断屏蔽字设置.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断系统\\2020年第21题-可屏蔽中断.md",
+    "action": "rename",
+    "newName": "2020年第21题-可屏蔽中断.md",
+    "oldPath": "计算机组成原理\\05-中断系统\\可屏蔽中断.md",
+    "oldName": "可屏蔽中断.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断系统\\2020年第20题-外部中断.md",
+    "action": "rename",
+    "newName": "2020年第20题-外部中断.md",
+    "oldPath": "计算机组成原理\\05-中断系统\\外部中断.md",
+    "oldName": "外部中断.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断系统\\2018年第22题-外部中断响应.md",
+    "action": "rename",
+    "newName": "2018年第22题-外部中断响应.md",
+    "oldPath": "计算机组成原理\\05-中断系统\\外部中断响应.md",
+    "oldName": "外部中断响应.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断系统\\2021年第21题-异常处理.md",
+    "action": "rename",
+    "newName": "2021年第21题-异常处理.md",
+    "oldPath": "计算机组成原理\\05-中断系统\\异常处理.md",
+    "oldName": "异常处理.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断系统\\2021年第22题-中断响应.md",
+    "action": "rename",
+    "newName": "2021年第22题-中断响应.md",
+    "oldPath": "计算机组成原理\\05-中断系统\\中断响应.md",
+    "oldName": "中断响应.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-中断系统\\2020年第18题-自陷.md",
+    "action": "rename",
+    "newName": "2020年第18题-自陷.md",
+    "oldPath": "计算机组成原理\\05-中断系统\\自陷.md",
+    "oldName": "自陷.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2019年第19题-存储器总线带宽.md",
+    "action": "rename",
+    "newName": "2019年第19题-存储器总线带宽.md",
+    "oldPath": "计算机组成原理\\05-总线\\存储器总线带宽.md",
+    "oldName": "存储器总线带宽.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2014年第20题-突发传输方式.md",
+    "action": "rename",
+    "newName": "2014年第20题-突发传输方式.md",
+    "oldPath": "计算机组成原理\\05-总线\\突发传输方式.md",
+    "oldName": "突发传输方式.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2011年第20题-系统总线数据线传输.md",
+    "action": "rename",
+    "newName": "2011年第20题-系统总线数据线传输.md",
+    "oldPath": "计算机组成原理\\05-总线\\系统总线数据线传输.md",
+    "oldName": "系统总线数据线传输.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2010年第20题-总线标准.md",
+    "action": "rename",
+    "newName": "2010年第20题-总线标准.md",
+    "oldPath": "计算机组成原理\\05-总线\\总线标准.md",
+    "oldName": "总线标准.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2023年第20题-总线传输.md",
+    "action": "rename",
+    "newName": "2023年第20题-总线传输.md",
+    "oldPath": "计算机组成原理\\05-总线\\总线传输.md",
+    "oldName": "总线传输.md"
+  },
+  {
+    "newName": "2009年第20题-总线带宽计算.md",
+    "newPath": "计算机组成原理\\05-总线\\2009年第20题-总线带宽计算.md",
+    "num": "20",
+    "oldName": "总线带宽计算.md",
+    "action": "split",
+    "year": "2009",
+    "sourcePath": "计算机组成原理\\05-总线\\总线带宽计算.md"
+  },
+  {
+    "newName": "2020年第19题-总线带宽计算.md",
+    "newPath": "计算机组成原理\\05-总线\\2020年第19题-总线带宽计算.md",
+    "num": "19",
+    "oldName": "总线带宽计算.md",
+    "action": "split",
+    "year": "2020",
+    "sourcePath": "计算机组成原理\\05-总线\\总线带宽计算.md"
+  },
+  {
+    "path": "计算机组成原理\\05-总线\\总线带宽计算.md",
+    "action": "delete",
+    "name": "总线带宽计算.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2015年第19题-总线定时.md",
+    "action": "rename",
+    "newName": "2015年第19题-总线定时.md",
+    "oldPath": "计算机组成原理\\05-总线\\总线定时.md",
+    "oldName": "总线定时.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2021年第19题-总线类型.md",
+    "action": "rename",
+    "newName": "2021年第19题-总线类型.md",
+    "oldPath": "计算机组成原理\\05-总线\\总线类型.md",
+    "oldName": "总线类型.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2016年第21题-总线设计.md",
+    "action": "rename",
+    "newName": "2016年第21题-总线设计.md",
+    "oldPath": "计算机组成原理\\05-总线\\总线设计.md",
+    "oldName": "总线设计.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2018年第21题-总线速率提高.md",
+    "action": "rename",
+    "newName": "2018年第21题-总线速率提高.md",
+    "oldPath": "计算机组成原理\\05-总线\\总线速率提高.md",
+    "oldName": "总线速率提高.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2014年第19题-总线最大数据传输率.md",
+    "action": "rename",
+    "newName": "2014年第19题-总线最大数据传输率.md",
+    "oldPath": "计算机组成原理\\05-总线\\总线最大数据传输率.md",
+    "oldName": "总线最大数据传输率.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-总线\\2017年第20题-PCI-Express传输方式.md",
+    "action": "rename",
+    "newName": "2017年第20题-PCI-Express传输方式.md",
+    "oldPath": "计算机组成原理\\05-总线\\PCI-Express传输方式.md",
+    "oldName": "PCI-Express传输方式.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-控制器\\2016年第20题-单周期处理器.md",
+    "action": "rename",
+    "newName": "2016年第20题-单周期处理器.md",
+    "oldPath": "计算机组成原理\\05-控制器\\单周期处理器.md",
+    "oldName": "单周期处理器.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-控制器\\2010年第18题-汇编语言程序员可见寄存器.md",
+    "action": "rename",
+    "newName": "2010年第18题-汇编语言程序员可见寄存器.md",
+    "oldPath": "计算机组成原理\\05-控制器\\汇编语言程序员可见寄存器.md",
+    "oldName": "汇编语言程序员可见寄存器.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-控制器\\2017年第18题-控制存储器.md",
+    "action": "rename",
+    "newName": "2017年第18题-控制存储器.md",
+    "oldPath": "计算机组成原理\\05-控制器\\控制存储器.md",
+    "oldName": "控制存储器.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-控制器\\2017年第18题-控制存储器特点.md",
+    "action": "rename",
+    "newName": "2017年第18题-控制存储器特点.md",
+    "oldPath": "计算机组成原理\\05-控制器\\控制存储器特点.md",
+    "oldName": "控制存储器特点.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-控制器\\2014年第18题-微指令下地址字段位数.md",
+    "action": "rename",
+    "newName": "2014年第18题-微指令下地址字段位数.md",
+    "oldPath": "计算机组成原理\\05-控制器\\微指令下地址字段位数.md",
+    "oldName": "微指令下地址字段位数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-控制器\\2009年第19题-硬布线控制器特点.md",
+    "action": "rename",
+    "newName": "2009年第19题-硬布线控制器特点.md",
+    "oldPath": "计算机组成原理\\05-控制器\\硬布线控制器特点.md",
+    "oldName": "硬布线控制器特点.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-控制器\\2011年第19题-指令执行.md",
+    "action": "rename",
+    "newName": "2011年第19题-指令执行.md",
+    "oldPath": "计算机组成原理\\05-控制器\\指令执行.md",
+    "oldName": "指令执行.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-控制器\\2012年第18题-字段直接编码.md",
+    "action": "rename",
+    "newName": "2012年第18题-字段直接编码.md",
+    "oldPath": "计算机组成原理\\05-控制器\\字段直接编码.md",
+    "oldName": "字段直接编码.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-控制器\\2009年第11题-CPU区分指令和数据.md",
+    "action": "rename",
+    "newName": "2009年第11题-CPU区分指令和数据.md",
+    "oldPath": "计算机组成原理\\05-控制器\\CPU区分指令和数据.md",
+    "oldName": "CPU区分指令和数据.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-控制器\\2016年第18题-PC和IR位数.md",
+    "action": "rename",
+    "newName": "2016年第18题-PC和IR位数.md",
+    "oldPath": "计算机组成原理\\05-控制器\\PC和IR位数.md",
+    "oldName": "PC和IR位数.md"
+  },
+  {
+    "newPath": "计算机组成原理\\05-编译系统\\2022年第20题-程序翻译.md",
+    "action": "rename",
+    "newName": "2022年第20题-程序翻译.md",
+    "oldPath": "计算机组成原理\\05-编译系统\\程序翻译.md",
+    "oldName": "程序翻译.md"
+  },
+  {
+    "newPath": "计算机组成原理\\06-并行处理\\2022年第22题-并行处理技术.md",
+    "action": "rename",
+    "newName": "2022年第22题-并行处理技术.md",
+    "oldPath": "计算机组成原理\\06-并行处理\\并行处理技术.md",
+    "oldName": "并行处理技术.md"
+  },
+  {
+    "newPath": "计算机组成原理\\06-并行处理\\2022年第22题-并行架构.md",
+    "action": "rename",
+    "newName": "2022年第22题-并行架构.md",
+    "oldPath": "计算机组成原理\\06-并行处理\\并行架构.md",
+    "oldName": "并行架构.md"
+  },
+  {
+    "newPath": "计算机网络\\00-体系结构\\2013年第35题-报文交换和分组交换时间.md",
+    "action": "rename",
+    "newName": "2013年第35题-报文交换和分组交换时间.md",
+    "oldPath": "计算机网络\\00-体系结构\\报文交换和分组交换时间.md",
+    "oldName": "报文交换和分组交换时间.md"
+  },
+  {
+    "newPath": "计算机网络\\00-体系结构\\2010年第34题-分组交换传输时间.md",
+    "action": "rename",
+    "newName": "2010年第34题-分组交换传输时间.md",
+    "oldPath": "计算机网络\\00-体系结构\\分组交换传输时间.md",
+    "oldName": "分组交换传输时间.md"
+  },
+  {
+    "newPath": "计算机网络\\00-体系结构\\2014年第33题-网络拓扑2014.md",
+    "action": "rename",
+    "newName": "2014年第33题-网络拓扑2014.md",
+    "oldPath": "计算机网络\\00-体系结构\\网络拓扑2014.md",
+    "oldName": "网络拓扑2014.md"
+  },
+  {
+    "newPath": "计算机网络\\00-体系结构\\2010年第33题-网络体系结构.md",
+    "action": "rename",
+    "newName": "2010年第33题-网络体系结构.md",
+    "oldPath": "计算机网络\\00-体系结构\\网络体系结构.md",
+    "oldName": "网络体系结构.md"
+  },
+  {
+    "newPath": "计算机网络\\00-体系结构\\2014年第34题-协议集合2014.md",
+    "action": "rename",
+    "newName": "2014年第34题-协议集合2014.md",
+    "oldPath": "计算机网络\\00-体系结构\\协议集合2014.md",
+    "oldName": "协议集合2014.md"
+  },
+  {
+    "newPath": "计算机网络\\00-体系结构\\2013年第33题-OSI表示层功能.md",
+    "action": "rename",
+    "newName": "2013年第33题-OSI表示层功能.md",
+    "oldPath": "计算机网络\\00-体系结构\\OSI表示层功能.md",
+    "oldName": "OSI表示层功能.md"
+  },
+  {
+    "newPath": "计算机网络\\00-体系结构\\2017年第33题-OSI传输效率.md",
+    "action": "rename",
+    "newName": "2017年第33题-OSI传输效率.md",
+    "oldPath": "计算机网络\\00-体系结构\\OSI传输效率.md",
+    "oldName": "OSI传输效率.md"
+  },
+  {
+    "newPath": "计算机网络\\00-体系结构\\2009年第33题-OSI会话层服务.md",
+    "action": "rename",
+    "newName": "2009年第33题-OSI会话层服务.md",
+    "oldPath": "计算机网络\\00-体系结构\\OSI会话层服务.md",
+    "oldName": "OSI会话层服务.md"
+  },
+  {
+    "newPath": "计算机网络\\00-体系结构\\2016年第33题-OSI设备分层.md",
+    "action": "rename",
+    "newName": "2016年第33题-OSI设备分层.md",
+    "oldPath": "计算机网络\\00-体系结构\\OSI设备分层.md",
+    "oldName": "OSI设备分层.md"
+  },
+  {
+    "newPath": "计算机网络\\00-基本概念\\2020年第33题-协议要素.md",
+    "action": "rename",
+    "newName": "2020年第33题-协议要素.md",
+    "oldPath": "计算机网络\\00-基本概念\\协议要素.md",
+    "oldName": "协议要素.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2015年第34题-编码方案识别.md",
+    "action": "rename",
+    "newName": "2015年第34题-编码方案识别.md",
+    "oldPath": "计算机网络\\01-物理层\\编码方案识别.md",
+    "oldName": "编码方案识别.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2011年第34题-波特率计算.md",
+    "action": "rename",
+    "newName": "2011年第34题-波特率计算.md",
+    "oldPath": "计算机网络\\01-物理层\\波特率计算.md",
+    "oldName": "波特率计算.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2012年第34题-接口特性.md",
+    "action": "rename",
+    "newName": "2012年第34题-接口特性.md",
+    "oldPath": "计算机网络\\01-物理层\\接口特性.md",
+    "oldName": "接口特性.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2023年第33题-时延计算.md",
+    "action": "rename",
+    "newName": "2023年第33题-时延计算.md",
+    "oldPath": "计算机网络\\01-物理层\\时延计算.md",
+    "oldName": "时延计算.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2024年第34题-数字调制方法.md",
+    "action": "rename",
+    "newName": "2024年第34题-数字调制方法.md",
+    "oldPath": "计算机网络\\01-物理层\\数字调制方法.md",
+    "oldName": "数字调制方法.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2016年第34题-香农公式实际速率.md",
+    "action": "rename",
+    "newName": "2016年第34题-香农公式实际速率.md",
+    "oldPath": "计算机网络\\01-物理层\\香农公式实际速率.md",
+    "oldName": "香农公式实际速率.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2014年第35题-信道传输速率因素.md",
+    "action": "rename",
+    "newName": "2014年第35题-信道传输速率因素.md",
+    "oldPath": "计算机网络\\01-物理层\\信道传输速率因素.md",
+    "oldName": "信道传输速率因素.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2023年第34题-信道容量.md",
+    "action": "rename",
+    "newName": "2023年第34题-信道容量.md",
+    "oldPath": "计算机网络\\01-物理层\\信道容量.md",
+    "oldName": "信道容量.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2017年第34题-信号状态数计算.md",
+    "action": "rename",
+    "newName": "2017年第34题-信号状态数计算.md",
+    "oldPath": "计算机网络\\01-物理层\\信号状态数计算.md",
+    "oldName": "信号状态数计算.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2022年第34题-ASK调制.md",
+    "action": "rename",
+    "newName": "2022年第34题-ASK调制.md",
+    "oldPath": "计算机网络\\01-物理层\\ASK调制.md",
+    "oldName": "ASK调制.md"
+  },
+  {
+    "newPath": "计算机网络\\01-物理层\\2009年第34题-QAM调制最大传输速率.md",
+    "action": "rename",
+    "newName": "2009年第34题-QAM调制最大传输速率.md",
+    "oldPath": "计算机网络\\01-物理层\\QAM调制最大传输速率.md",
+    "oldName": "QAM调制最大传输速率.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2017年第35题-802.11帧地址.md",
+    "action": "rename",
+    "newName": "2017年第35题-802.11帧地址.md",
+    "oldPath": "计算机网络\\02-数据链路层\\802.11帧地址.md",
+    "oldName": "802.11帧地址.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2019年第35题-滑动窗口协议.md",
+    "action": "rename",
+    "newName": "2019年第35题-滑动窗口协议.md",
+    "oldPath": "计算机网络\\02-数据链路层\\滑动窗口协议.md",
+    "oldName": "滑动窗口协议.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2015年第35题-滑动窗口帧序号位数.md",
+    "action": "rename",
+    "newName": "2015年第35题-滑动窗口帧序号位数.md",
+    "oldPath": "计算机网络\\02-数据链路层\\滑动窗口帧序号位数.md",
+    "oldName": "滑动窗口帧序号位数.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2015年第37题-交换机特性.md",
+    "action": "rename",
+    "newName": "2015年第37题-交换机特性.md",
+    "oldPath": "计算机网络\\02-数据链路层\\交换机特性.md",
+    "oldName": "交换机特性.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2022年第33题-流量控制.md",
+    "action": "rename",
+    "newName": "2022年第33题-流量控制.md",
+    "oldPath": "计算机网络\\02-数据链路层\\流量控制.md",
+    "oldName": "流量控制.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2011年第35题-选择重传协议.md",
+    "action": "rename",
+    "newName": "2011年第35题-选择重传协议.md",
+    "oldPath": "计算机网络\\02-数据链路层\\选择重传协议.md",
+    "oldName": "选择重传协议.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2015年第37题-以太网交换机.md",
+    "action": "rename",
+    "newName": "2015年第37题-以太网交换机.md",
+    "oldPath": "计算机网络\\02-数据链路层\\以太网交换机.md",
+    "oldName": "以太网交换机.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2009年第36题-以太网交换机转发地址.md",
+    "action": "rename",
+    "newName": "2009年第36题-以太网交换机转发地址.md",
+    "oldPath": "计算机网络\\02-数据链路层\\以太网交换机转发地址.md",
+    "oldName": "以太网交换机转发地址.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2016年第35题-以太网帧传播范围.md",
+    "action": "rename",
+    "newName": "2016年第35题-以太网帧传播范围.md",
+    "oldPath": "计算机网络\\02-数据链路层\\以太网帧传播范围.md",
+    "oldName": "以太网帧传播范围.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2010年第38题-抑制广播风暴设备.md",
+    "action": "rename",
+    "newName": "2010年第38题-抑制广播风暴设备.md",
+    "oldPath": "计算机网络\\02-数据链路层\\抑制广播风暴设备.md",
+    "oldName": "抑制广播风暴设备.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2014年第37题-CDMA解码.md",
+    "action": "rename",
+    "newName": "2014年第37题-CDMA解码.md",
+    "oldPath": "计算机网络\\02-数据链路层\\CDMA解码.md",
+    "oldName": "CDMA解码.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2023年第37题-CRC.md",
+    "action": "rename",
+    "newName": "2023年第37题-CRC.md",
+    "oldPath": "计算机网络\\02-数据链路层\\CRC.md",
+    "oldName": "CRC.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2011年第36题-CSMA_CA协议.md",
+    "action": "rename",
+    "newName": "2011年第36题-CSMA_CA协议.md",
+    "oldPath": "计算机网络\\02-数据链路层\\CSMA_CA协议.md",
+    "oldName": "CSMA_CA协议.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2023年第36题-CSMA_CD.md",
+    "action": "rename",
+    "newName": "2023年第36题-CSMA_CD.md",
+    "oldPath": "计算机网络\\02-数据链路层\\CSMA_CD.md",
+    "oldName": "CSMA_CD.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2009年第37题-CSMA_CD最小帧长.md",
+    "action": "rename",
+    "newName": "2009年第37题-CSMA_CD最小帧长.md",
+    "oldPath": "计算机网络\\02-数据链路层\\CSMA_CD最小帧长.md",
+    "oldName": "CSMA_CD最小帧长.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2024年第36题-CSMA-CA的NAV.md",
+    "action": "rename",
+    "newName": "2024年第36题-CSMA-CA的NAV.md",
+    "oldPath": "计算机网络\\02-数据链路层\\CSMA-CA的NAV.md",
+    "oldName": "CSMA-CA的NAV.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2015年第36题-CSMACD协议.md",
+    "action": "rename",
+    "newName": "2015年第36题-CSMACD协议.md",
+    "oldPath": "计算机网络\\02-数据链路层\\CSMACD协议.md",
+    "oldName": "CSMACD协议.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2015年第36题-CSMACD协议特性.md",
+    "action": "rename",
+    "newName": "2015年第36题-CSMACD协议特性.md",
+    "oldPath": "计算机网络\\02-数据链路层\\CSMACD协议特性.md",
+    "oldName": "CSMACD协议特性.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2016年第36题-CSMACD最远距离.md",
+    "action": "rename",
+    "newName": "2016年第36题-CSMACD最远距离.md",
+    "oldPath": "计算机网络\\02-数据链路层\\CSMACD最远距离.md",
+    "oldName": "CSMACD最远距离.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2009年第35题-GBN协议重发帧数.md",
+    "action": "rename",
+    "newName": "2009年第35题-GBN协议重发帧数.md",
+    "oldPath": "计算机网络\\02-数据链路层\\GBN协议重发帧数.md",
+    "oldName": "GBN协议重发帧数.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2012年第36题-GBN帧序号位数.md",
+    "action": "rename",
+    "newName": "2012年第36题-GBN帧序号位数.md",
+    "oldPath": "计算机网络\\02-数据链路层\\GBN帧序号位数.md",
+    "oldName": "GBN帧序号位数.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2014年第36题-GBN最大传输速率.md",
+    "action": "rename",
+    "newName": "2014年第36题-GBN最大传输速率.md",
+    "oldPath": "计算机网络\\02-数据链路层\\GBN最大传输速率.md",
+    "oldName": "GBN最大传输速率.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2012年第35题-MAC协议服务类型.md",
+    "action": "rename",
+    "newName": "2012年第35题-MAC协议服务类型.md",
+    "oldPath": "计算机网络\\02-数据链路层\\MAC协议服务类型.md",
+    "oldName": "MAC协议服务类型.md"
+  },
+  {
+    "newPath": "计算机网络\\02-数据链路层\\2024年第35题-VLAN的ARP表.md",
+    "action": "rename",
+    "newName": "2024年第35题-VLAN的ARP表.md",
+    "oldPath": "计算机网络\\02-数据链路层\\VLAN的ARP表.md",
+    "oldName": "VLAN的ARP表.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2021年第37题-距离向量路由.md",
+    "action": "rename",
+    "newName": "2021年第37题-距离向量路由.md",
+    "oldPath": "计算机网络\\03-网络层\\距离向量路由.md",
+    "oldName": "距离向量路由.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2015年第38题-路由表转发接口.md",
+    "action": "rename",
+    "newName": "2015年第38题-路由表转发接口.md",
+    "oldPath": "计算机网络\\03-网络层\\路由表转发接口.md",
+    "oldName": "路由表转发接口.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2012年第37题-路由器功能.md",
+    "action": "rename",
+    "newName": "2012年第37题-路由器功能.md",
+    "oldPath": "计算机网络\\03-网络层\\路由器功能.md",
+    "oldName": "路由器功能.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2022年第35题-网络地址计算.md",
+    "action": "rename",
+    "newName": "2022年第35题-网络地址计算.md",
+    "oldPath": "计算机网络\\03-网络层\\网络地址计算.md",
+    "oldName": "网络地址计算.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2024年第33题-网络吞吐量.md",
+    "action": "rename",
+    "newName": "2024年第33题-网络吞吐量.md",
+    "oldPath": "计算机网络\\03-网络层\\网络吞吐量.md",
+    "oldName": "网络吞吐量.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2020年第34题-虚电路.md",
+    "action": "rename",
+    "newName": "2020年第34题-虚电路.md",
+    "oldPath": "计算机网络\\03-网络层\\虚电路.md",
+    "oldName": "虚电路.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2012年第39题-子网广播地址.md",
+    "action": "rename",
+    "newName": "2012年第39题-子网广播地址.md",
+    "oldPath": "计算机网络\\03-网络层\\子网广播地址.md",
+    "oldName": "子网广播地址.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2023年第39题-子网划分.md",
+    "action": "rename",
+    "newName": "2023年第39题-子网划分.md",
+    "oldPath": "计算机网络\\03-网络层\\子网划分.md",
+    "oldName": "子网划分.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2021年第35题-子网划分冲突.md",
+    "action": "rename",
+    "newName": "2021年第35题-子网划分冲突.md",
+    "oldPath": "计算机网络\\03-网络层\\子网划分冲突.md",
+    "oldName": "子网划分冲突.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2010年第37题-子网划分计算2010.md",
+    "action": "rename",
+    "newName": "2010年第37题-子网划分计算2010.md",
+    "oldPath": "计算机网络\\03-网络层\\子网划分计算2010.md",
+    "oldName": "子网划分计算2010.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2016年第39题-子网划分通信问题.md",
+    "action": "rename",
+    "newName": "2016年第39题-子网划分通信问题.md",
+    "oldPath": "计算机网络\\03-网络层\\子网划分通信问题.md",
+    "oldName": "子网划分通信问题.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2011年第38题-子网掩码和接收主机数.md",
+    "action": "rename",
+    "newName": "2011年第38题-子网掩码和接收主机数.md",
+    "oldPath": "计算机网络\\03-网络层\\子网掩码和接收主机数.md",
+    "oldName": "子网掩码和接收主机数.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2015年第38题-最长前缀匹配.md",
+    "action": "rename",
+    "newName": "2015年第38题-最长前缀匹配.md",
+    "oldPath": "计算机网络\\03-网络层\\最长前缀匹配.md",
+    "oldName": "最长前缀匹配.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2012年第38题-ARP协议功能.md",
+    "action": "rename",
+    "newName": "2012年第38题-ARP协议功能.md",
+    "oldPath": "计算机网络\\03-网络层\\ARP协议功能.md",
+    "oldName": "ARP协议功能.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2010年第36题-ICMP报文类型.md",
+    "action": "rename",
+    "newName": "2010年第36题-ICMP报文类型.md",
+    "oldPath": "计算机网络\\03-网络层\\ICMP报文类型.md",
+    "oldName": "ICMP报文类型.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2012年第33题-ICMP协议层次.md",
+    "action": "rename",
+    "newName": "2012年第33题-ICMP协议层次.md",
+    "oldPath": "计算机网络\\03-网络层\\ICMP协议层次.md",
+    "oldName": "ICMP协议层次.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2021年第36题-IP分片.md",
+    "action": "rename",
+    "newName": "2021年第36题-IP分片.md",
+    "oldPath": "计算机网络\\03-网络层\\IP分片.md",
+    "oldName": "IP分片.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2011年第33题-IP网络层服务.md",
+    "action": "rename",
+    "newName": "2011年第33题-IP网络层服务.md",
+    "oldPath": "计算机网络\\03-网络层\\IP网络层服务.md",
+    "oldName": "IP网络层服务.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2023年第40题-IPv6.md",
+    "action": "rename",
+    "newName": "2023年第40题-IPv6.md",
+    "oldPath": "计算机网络\\03-网络层\\IPv6.md",
+    "oldName": "IPv6.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2016年第38题-NAT地址转换源目的.md",
+    "action": "rename",
+    "newName": "2016年第38题-NAT地址转换源目的.md",
+    "oldPath": "计算机网络\\03-网络层\\NAT地址转换源目的.md",
+    "oldName": "NAT地址转换源目的.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2016年第37题-RIP距离向量.md",
+    "action": "rename",
+    "newName": "2016年第37题-RIP距离向量.md",
+    "oldPath": "计算机网络\\03-网络层\\RIP距离向量.md",
+    "oldName": "RIP距离向量.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2010年第35题-RIP协议距离矢量.md",
+    "action": "rename",
+    "newName": "2010年第35题-RIP协议距离矢量.md",
+    "oldPath": "计算机网络\\03-网络层\\RIP协议距离矢量.md",
+    "oldName": "RIP协议距离矢量.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2022年第37题-SDN.md",
+    "action": "rename",
+    "newName": "2022年第37题-SDN.md",
+    "oldPath": "计算机网络\\03-网络层\\SDN.md",
+    "oldName": "SDN.md"
+  },
+  {
+    "newPath": "计算机网络\\03-网络层\\2021年第33题-TCP_IP层次.md",
+    "action": "rename",
+    "newName": "2021年第33题-TCP_IP层次.md",
+    "oldPath": "计算机网络\\03-网络层\\TCP_IP层次.md",
+    "oldName": "TCP_IP层次.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2021年第39题-传输效率.md",
+    "action": "rename",
+    "newName": "2021年第39题-传输效率.md",
+    "oldPath": "计算机网络\\04-传输层\\传输效率.md",
+    "oldName": "传输效率.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2021年第40题-TCP滑动窗口.md",
+    "action": "rename",
+    "newName": "2021年第40题-TCP滑动窗口.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP滑动窗口.md",
+    "oldName": "TCP滑动窗口.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2024年第38题-TCP连接时间.md",
+    "action": "rename",
+    "newName": "2024年第38题-TCP连接时间.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP连接时间.md",
+    "oldName": "TCP连接时间.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2022年第39题-TCP连接释放.md",
+    "action": "rename",
+    "newName": "2022年第39题-TCP连接释放.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP连接释放.md",
+    "oldName": "TCP连接释放.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2011年第40题-TCP确认序号.md",
+    "action": "rename",
+    "newName": "2011年第40题-TCP确认序号.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP确认序号.md",
+    "oldName": "TCP确认序号.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2009年第38题-TCP确认序号计算.md",
+    "action": "rename",
+    "newName": "2009年第38题-TCP确认序号计算.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP确认序号计算.md",
+    "oldName": "TCP确认序号计算.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2011年第39题-TCP三次握手.md",
+    "action": "rename",
+    "newName": "2011年第39题-TCP三次握手.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP三次握手.md",
+    "oldName": "TCP三次握手.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2010年第39题-TCP拥塞窗口发送字节数.md",
+    "action": "rename",
+    "newName": "2010年第39题-TCP拥塞窗口发送字节数.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP拥塞窗口发送字节数.md",
+    "oldName": "TCP拥塞窗口发送字节数.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2014年第38题-TCP拥塞窗口计算.md",
+    "action": "rename",
+    "newName": "2014年第38题-TCP拥塞窗口计算.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP拥塞窗口计算.md",
+    "oldName": "TCP拥塞窗口计算.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2009年第39题-TCP拥塞窗口慢启动.md",
+    "action": "rename",
+    "newName": "2009年第39题-TCP拥塞窗口慢启动.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP拥塞窗口慢启动.md",
+    "oldName": "TCP拥塞窗口慢启动.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2022年第38题-TCP拥塞控制.md",
+    "action": "rename",
+    "newName": "2022年第38题-TCP拥塞控制.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP拥塞控制.md",
+    "oldName": "TCP拥塞控制.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2015年第39题-TCP拥塞控制窗口.md",
+    "action": "rename",
+    "newName": "2015年第39题-TCP拥塞控制窗口.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP拥塞控制窗口.md",
+    "oldName": "TCP拥塞控制窗口.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2021年第38题-TCP状态转换.md",
+    "action": "rename",
+    "newName": "2021年第38题-TCP状态转换.md",
+    "oldPath": "计算机网络\\04-传输层\\TCP状态转换.md",
+    "oldName": "TCP状态转换.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2024年第39题-UDP校验和.md",
+    "action": "rename",
+    "newName": "2024年第39题-UDP校验和.md",
+    "oldPath": "计算机网络\\04-传输层\\UDP校验和.md",
+    "oldName": "UDP校验和.md"
+  },
+  {
+    "newPath": "计算机网络\\04-传输层\\2014年第39题-UDP协议特性.md",
+    "action": "rename",
+    "newName": "2014年第39题-UDP协议特性.md",
+    "oldPath": "计算机网络\\04-传输层\\UDP协议特性.md",
+    "oldName": "UDP协议特性.md"
+  },
+  {
+    "newPath": "计算机网络\\05-应用层\\2012年第40题-电子邮件协议.md",
+    "action": "rename",
+    "newName": "2012年第40题-电子邮件协议.md",
+    "oldPath": "计算机网络\\05-应用层\\电子邮件协议.md",
+    "oldName": "电子邮件协议.md"
+  },
+  {
+    "newPath": "计算机网络\\05-应用层\\2010年第40题-DNS递归查询.md",
+    "action": "rename",
+    "newName": "2010年第40题-DNS递归查询.md",
+    "oldPath": "计算机网络\\05-应用层\\DNS递归查询.md",
+    "oldName": "DNS递归查询.md"
+  },
+  {
+    "newPath": "计算机网络\\05-应用层\\2016年第40题-DNS迭代查询次数.md",
+    "action": "rename",
+    "newName": "2016年第40题-DNS迭代查询次数.md",
+    "oldPath": "计算机网络\\05-应用层\\DNS迭代查询次数.md",
+    "oldName": "DNS迭代查询次数.md"
+  },
+  {
+    "newPath": "计算机网络\\05-应用层\\2009年第40题-FTP控制连接.md",
+    "action": "rename",
+    "newName": "2009年第40题-FTP控制连接.md",
+    "oldPath": "计算机网络\\05-应用层\\FTP控制连接.md",
+    "oldName": "FTP控制连接.md"
+  },
+  {
+    "newPath": "计算机网络\\05-应用层\\2024年第40题-HTTP非持久连接RTT.md",
+    "action": "rename",
+    "newName": "2024年第40题-HTTP非持久连接RTT.md",
+    "oldPath": "计算机网络\\05-应用层\\HTTP非持久连接RTT.md",
+    "oldName": "HTTP非持久连接RTT.md"
+  },
+  {
+    "newPath": "计算机网络\\05-应用层\\2015年第40题-HTTP请求报文分析.md",
+    "action": "rename",
+    "newName": "2015年第40题-HTTP请求报文分析.md",
+    "oldPath": "计算机网络\\05-应用层\\HTTP请求报文分析.md",
+    "oldName": "HTTP请求报文分析.md"
+  },
+  {
+    "newPath": "计算机网络\\05-应用层\\2022年第40题-HTTP时延计算.md",
+    "action": "rename",
+    "newName": "2022年第40题-HTTP时延计算.md",
+    "oldPath": "计算机网络\\05-应用层\\HTTP时延计算.md",
+    "oldName": "HTTP时延计算.md"
+  },
+  {
+    "newPath": "计算机网络\\05-应用层\\2015年第33题-POP3传输层服务.md",
+    "action": "rename",
+    "newName": "2015年第33题-POP3传输层服务.md",
+    "oldPath": "计算机网络\\05-应用层\\POP3传输层服务.md",
+    "oldName": "POP3传输层服务.md"
+  },
+  {
+    "newPath": "计算机网络\\05-应用层\\2014年第40题-Web访问协议.md",
+    "action": "rename",
+    "newName": "2014年第40题-Web访问协议.md",
+    "oldPath": "计算机网络\\05-应用层\\Web访问协议.md",
+    "oldName": "Web访问协议.md"
+  }
+]
