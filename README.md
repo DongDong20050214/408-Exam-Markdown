@@ -1,6 +1,6 @@
 # 408考研真题Markdown知识库
 
-> **全网首个**完全采用Markdown格式的408统考真题题库，专为Obsidian等知识管理工具设计，支持AI问答、RAG检索、双向链接。
+> **完全采用Markdown格式的408统考真题题库，专为Obsidian等知识管理工具设计，支持AI问答、RAG检索、双向链接。
 
 [![真题数量](https://img.shields.io/badge/真题-1035道-blue)](408题库/)
 [![知识点](https://img.shields.io/badge/知识点-100个-green)](AI-知识点原子库/)
@@ -11,9 +11,9 @@
 
 ## 🌟 核心亮点
 
-### 独创Markdown真题格式
+### Markdown真题格式
 
-市面上绝大多数408真题资料都是PDF扫描版或Word文档，**本项目首创完整的Markdown格式真题库**，具有以下优势：
+市面上绝大多数408真题资料都是PDF扫描版或Word文档，**本项目完整的Markdown格式真题库**，具有以下优势：
 
 - ✅ **纯文本格式**：可被AI直接读取和理解，无需OCR
 - ✅ **结构化数据**：使用YAML frontmatter存储元数据（年份、难度、考频等）
