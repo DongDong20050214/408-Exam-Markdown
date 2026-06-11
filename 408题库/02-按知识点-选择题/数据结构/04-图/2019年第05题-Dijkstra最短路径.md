@@ -17,7 +17,7 @@ tags: ["数据结构", "AOE网关键路径"]
 
 下图所示的 AOE 网表示一项包含 8 个活动的工程。活动 $d$ 的最早开始时间和最迟开始时间分别是（）。
 
-![[attachments/2019/2019_Q05_0.jpeg]]
+![attachments/2019/2019_Q05_0.jpeg](attachments/2019/2019_Q05_0.jpeg.md)
 **图片说明**：
 这是一个AOE网（Activity On Edge Network），包含：
 - **6个顶点**：V1, V2, V3, V4, V5, V6（代表事件）

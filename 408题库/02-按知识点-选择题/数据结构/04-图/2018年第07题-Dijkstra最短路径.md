@@ -15,7 +15,7 @@ tags: ["数据结构", "图"]
 
 下列选项中, 不是题 07 图中有向图的拓扑序列的是 ( )。
 
-![[attachments/2018/2018_Q07_1.jpeg]]
+![attachments/2018/2018_Q07_1.jpeg](attachments/2018/2018_Q07_1.jpeg.md)
 
 A. 1, 5, 2, 3, 6, 4 
 
