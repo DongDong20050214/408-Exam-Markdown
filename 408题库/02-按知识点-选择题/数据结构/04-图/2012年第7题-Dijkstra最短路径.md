@@ -1,6 +1,6 @@
 ---
 year: 2012
-question_id: "2012-7"
+question_id: "2012-07"
 subject: 数据结构
 chapter: 综合
 knowledge_point: 408真题
@@ -21,7 +21,7 @@ tags: ["数据结构", "408真题"]
 
 如右图所示的有向带权图，若采用迪杰斯特拉（Dijkstra）算法求从源点 $a$ 到其他各顶点的最短路径，则得到的第一条最短路径的目标顶点是 $b$ ，第二条最短路径的目标顶点是 $c$ ，后续得到的其余各最短路径的目标顶点依次是（）。
 
-![attachments/2012/2012_Q07_0.jpeg](attachments/2012/2012_Q07_0.jpeg.md)
+![attachments/2012/2012_Q07_0.jpeg](attachments/2012/2012_Q07_0.jpeg)
 
 A. $d, e, f$ 
 
