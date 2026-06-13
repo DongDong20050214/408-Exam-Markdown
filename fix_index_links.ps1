@@ -35,8 +35,9 @@ foreach ($f in (Get-ChildItem -LiteralPath $indexDir -Filter *.md -File)) {
       $k = "{0}-{1}" -f $matches[1], [int]$matches[2]
       if ($qIndex.ContainsKey($k)) {
         $rel = ([System.IO.Path]::GetRelativePath($dir, $qIndex[$k])) -replace '\\','/'
+        $realName = [System.IO.Path]::GetFileNameWithoutExtension($qIndex[$k])
         $script:fixed++
-        return "[$text]($rel)"
+        return "[$realName]($rel)"   # 显示文本也换成题库真实题名（去掉占位名如“未分类”）
       }
     }
     [void]$script:unresolved.Add("$($f.Name) :: $($m.Value)")
