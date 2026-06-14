@@ -20,7 +20,7 @@ tags: ["操作系统", "SPOOLing"]
 - 科目：#操作系统
 - 知识点：#操作系统/IO管理/SPOOLing技术
 - 难度：⭐⭐
-- 关联知识：[知识库/操作系统/SPOOLing](知识库/操作系统/SPOOLing.md)
+- 关联知识：[SPOOLing](../../../../AI-知识点原子库/SPOOLing.md)
 
 **题干**
 
